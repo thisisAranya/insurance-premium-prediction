@@ -1,0 +1,501 @@
+Age,Gender,Marital_Status,Occupation,Education,Monthly_Income,Area_Type,BMI,Smoking_Status,Alcohol_Consumption,Physical_Activity_hr_wk,Sleep_hr_day,Family_History,Preexisting_Condition,Doctor_Visits_Last_Year,Current_Medications,Stress_Level,Pollution_Exposure,Food_Habit,Claim_History,Claim_Amount_Last_Year,Insurance_Type,Policy_Tenure,Premium_Paid_Last_Year,Loyalty_Score,Premium_Category
+69,Other,Single,Private Job,HSC,31284,Urban,25.4,Never,Occasional,5,5.6,Yes,None,1,1,Moderate,Low,Home-cooked,0,4731.85,Comprehensive,10,3790,0.59,Low
+77,Male,Married,Farmer,HSC,9528,Semi-urban,18.2,Current,Never,3.8,5.6,Yes,Asthma,2,1,Low,Low,Mostly Restaurant,1,5431.28,Basic,2,4370,0.64,High
+23,Male,Single,Freelancer,Master,16873,Semi-urban,25.1,Current,Occasional,4.8,5,Yes,Asthma,2,0,Low,Moderate,Mixed,0,759.49,Family,1,3830,0.38,Medium
+26,Female,Married,Teacher,Primary,17027,Urban,26.4,Never,Never,5.6,6.8,Yes,Diabetes,3,1,Low,Moderate,Mixed,1,1606,Basic,3,3360,0.82,Medium
+82,Female,Single,Private Job,Bachelor,47266,Semi-urban,20.9,Never,Occasional,3.7,4.4,Yes,Hypertension,4,1,Moderate,Moderate,Mostly Restaurant,0,14310.69,Comprehensive,7,3920,0.64,Medium
+76,Male,Married,Student,HSC,5314,Urban,30.9,Never,Never,3.4,6,Yes,None,0,0,High,Moderate,Mixed,0,8519.15,Basic,9,3860,0.83,Medium
+20,Other,Married,Private Job,SSC,23748,Semi-urban,25.1,Never,Occasional,-1,5.1,No,None,3,0,Low,Moderate,Mostly Restaurant,0,187.92,Comprehensive,1,3300,0.98,Low
+19,Male,Married,Teacher,SSC,29555,Urban,23.8,Former,Never,0.7,8.2,No,Asthma,2,2,Moderate,Moderate,Home-cooked,0,9018.22,Comprehensive,6,3290,0.85,Low
+20,Male,Married,Teacher,Bachelor,17811,Semi-urban,26.1,Never,Occasional,-1.9,7.2,Yes,Heart Disease,2,1,Moderate,Moderate,Mostly Restaurant,0,20133.9,Family,4,3300,0.89,Medium
+77,Female,Widowed,Doctor,Bachelor,71616,Urban,17.8,Former,Occasional,0.4,7.3,Yes,Hypertension,3,0,Low,Low,Mostly Restaurant,1,46.2,Critical Illness,9,3870,0.76,Medium
+42,Male,Married,Unemployed,None,3791,Rural,27.7,Current,Occasional,1.1,5.4,No,Hypertension,5,0,Low,High,Mostly Restaurant,0,1398.5,Basic,6,4020,0.47,Medium
+68,Female,Married,Doctor,SSC,59738,Urban,27.1,Never,Never,1.3,4.9,No,Hypertension,4,4,High,High,Mixed,0,2431.46,Family,7,3780,0.8,Medium
+50,Female,Widowed,Freelancer,HSC,42745,Semi-urban,19.6,Never,Never,3.3,6.6,No,Diabetes,4,0,Moderate,Moderate,Home-cooked,2,12223.08,Basic,10,3600,0.47,Medium
+24,Other,Single,Teacher,Master,27323,Rural,22.4,Never,Never,4.5,5.3,No,Hypertension,1,1,Moderate,High,Mixed,0,4468.16,Comprehensive,6,3340,0.65,Low
+66,Male,Married,Farmer,SSC,18852,Urban,26.7,Never,Never,0.5,10.1,No,Diabetes,4,1,Moderate,High,Home-cooked,0,408.53,Comprehensive,5,3760,1,Medium
+79,Female,Married,Teacher,HSC,16150,Urban,32.8,Never,Never,3.8,4.6,No,Asthma,4,0,Low,High,Home-cooked,0,7090.91,Family,9,3890,0.88,Medium
+46,Other,Single,Student,Master,6045,Rural,21.3,Current,Never,5.2,9.7,No,Asthma,0,2,Low,Moderate,Home-cooked,0,13547.98,Basic,1,4060,0.6,Medium
+21,Female,Single,Unemployed,HSC,3546,Semi-urban,14.5,Former,Occasional,5.6,5.6,No,Hypertension,5,0,Low,Moderate,Home-cooked,0,91.95,Family,3,3310,1,Medium
+52,Male,Married,Student,Primary,4774,Urban,25.8,Current,Never,1.6,7.8,Yes,None,3,3,Low,Low,Home-cooked,0,7489.77,Comprehensive,8,4120,0.76,Medium
+40,Male,Married,Construction Worker,Bachelor,13766,Urban,11.7,Never,Occasional,2.8,5.6,No,Heart Disease,0,2,Low,High,Home-cooked,2,3396.47,Basic,5,3500,0.64,Medium
+29,Other,Married,Unemployed,HSC,2156,Semi-urban,20.5,Never,Never,3,3.4,Yes,Diabetes,2,0,Moderate,Moderate,Home-cooked,1,533.04,Basic,7,3390,1,Medium
+63,Male,Divorced,Freelancer,HSC,33322,Urban,16.1,Never,Never,3.2,8.1,Yes,None,3,0,Low,Moderate,Mostly Restaurant,1,2373.98,Basic,7,3730,0.75,Low
+36,Male,Divorced,Doctor,HSC,84482,Semi-urban,28.3,Former,Never,4.5,7.3,No,None,2,1,Moderate,High,Mixed,0,2866.48,Basic,10,3460,0.85,Low
+61,Female,Married,Student,None,6780,Semi-urban,24.5,Former,Never,1.5,6.5,No,None,3,2,Moderate,Moderate,Home-cooked,0,15019.98,Critical Illness,8,3710,0.8,Low
+41,Other,Divorced,Student,Master,2667,Semi-urban,17.4,Never,Never,1.5,5.8,No,Heart Disease,1,1,High,High,Mixed,0,396.3,Family,6,3510,0.69,Medium
+64,Male,Married,Teacher,HSC,15009,Semi-urban,23.5,Current,Regular,6.1,5.6,Yes,Hypertension,2,0,High,High,Mixed,0,68.83,Family,7,4240,0.99,High
+23,Male,Single,Freelancer,Master,25106,Urban,20.8,Former,Occasional,5.7,5.4,Yes,Heart Disease,1,0,Low,High,Home-cooked,2,1564.47,Basic,7,3330,0.57,Medium
+43,Female,Single,Unemployed,HSC,1077,Rural,29.1,Current,Never,3.3,5,Yes,Asthma,0,2,Low,High,Mostly Restaurant,0,733.06,Basic,2,4030,0.65,High
+55,Other,Married,Freelancer,Master,33386,Urban,25,Current,Never,-1.3,5.8,No,Diabetes,3,2,Low,Moderate,Mixed,0,19568.27,Basic,5,4150,0.97,Medium
+83,Other,Widowed,Teacher,HSC,21269,Semi-urban,18.5,Never,Occasional,4,7.6,Yes,None,2,0,High,Moderate,Mixed,0,925.24,Family,10,3930,0.64,Medium
+78,Other,Single,Farmer,Primary,10393,Semi-urban,22.1,Never,Never,1.4,5.6,Yes,Heart Disease,3,1,Moderate,Moderate,Home-cooked,1,4547.54,Comprehensive,4,3880,0.65,Medium
+64,Other,Single,Farmer,Bachelor,10125,Urban,26,Former,Never,1.4,7.2,No,Asthma,0,1,Moderate,Low,Home-cooked,0,553.93,Comprehensive,7,3740,0.83,Medium
+45,Other,Married,Freelancer,HSC,16229,Urban,25.1,Never,Never,4.8,8.1,Yes,Diabetes,1,1,Low,Moderate,Mixed,1,682.42,Basic,9,3550,0.83,Medium
+23,Male,Married,Construction Worker,Master,11761,Urban,22.2,Never,Regular,2.5,5.8,Yes,Asthma,1,0,Moderate,Moderate,Home-cooked,0,11353.76,Comprehensive,7,3330,0.57,Medium
+20,Female,Single,Doctor,Bachelor,90215,Urban,28,Former,Occasional,3.3,9.2,Yes,Asthma,4,0,Low,High,Mixed,2,6663.71,Comprehensive,1,3300,0.69,Medium
+31,Other,Single,Teacher,HSC,24765,Rural,23.3,Former,Regular,2.2,5.6,No,Asthma,4,0,Moderate,High,Home-cooked,3,6562.76,Family,9,3410,0.85,Medium
+51,Other,Married,Doctor,Bachelor,98914,Urban,26.9,Never,Never,4,7.6,No,None,2,2,Moderate,Moderate,Home-cooked,0,5743.98,Family,8,3610,0.83,Low
+56,Male,Single,Freelancer,Master,15984,Urban,14.7,Never,Never,5,7.5,Yes,Hypertension,0,0,Low,Moderate,Home-cooked,0,2824.02,Comprehensive,3,3660,0.23,Medium
+24,Male,Married,Farmer,Master,13408,Semi-urban,24.9,Former,Occasional,3.5,5.8,No,Asthma,2,3,Low,Moderate,Mixed,1,9368.72,Family,8,3340,0.53,Low
+69,Female,Married,Construction Worker,Bachelor,21420,Urban,24.1,Never,Never,2.7,9.1,No,Hypertension,4,1,High,High,Mostly Restaurant,1,748.98,Comprehensive,2,3790,0.8,Medium
+77,Female,Married,Student,SSC,4730,Urban,33.4,Current,Never,5.7,8.9,No,Asthma,3,2,Low,Moderate,Home-cooked,2,4473.57,Family,5,4370,0.6,High
+64,Female,Married,Farmer,HSC,15970,Urban,28.1,Never,Never,3.1,4.6,No,Hypertension,2,1,Moderate,High,Mixed,0,3449.44,Family,6,3740,0.44,Medium
+50,Male,Single,Student,Bachelor,8320,Urban,23.8,Never,Never,3.9,8.2,Yes,Asthma,1,0,Moderate,High,Home-cooked,0,2531.83,Comprehensive,3,3600,0.74,Medium
+73,Other,Married,Doctor,Master,42717,Urban,20.4,Never,Never,3.2,6.1,No,Asthma,2,1,High,Low,Home-cooked,0,9894.75,Family,7,3830,1,Medium
+20,Male,Single,Private Job,Master,67190,Semi-urban,22.7,Never,Regular,5,4.1,Yes,Heart Disease,1,1,Moderate,Moderate,Home-cooked,0,10922.25,Comprehensive,8,3300,0.77,Medium
+51,Male,Married,Unemployed,SSC,164,Rural,20.7,Former,Occasional,1.1,4,Yes,Asthma,3,1,Low,Moderate,Mixed,0,4892.81,Comprehensive,6,3610,1,Medium
+26,Other,Married,Unemployed,HSC,2679,Semi-urban,24.6,Never,Occasional,3.3,6,Yes,Heart Disease,2,0,High,Moderate,Home-cooked,0,9006.94,Comprehensive,4,3360,0.69,Medium
+43,Female,Single,Unemployed,Master,40,Urban,34,Never,Occasional,4.4,5.8,No,Heart Disease,0,0,High,High,Home-cooked,2,4587.92,Basic,9,3530,0.81,High
+70,Male,Single,Farmer,Bachelor,10681,Semi-urban,25.9,Former,Occasional,2.8,6.2,No,Asthma,6,1,Moderate,Low,Home-cooked,0,883.77,Comprehensive,4,3800,0.94,Medium
+79,Female,Married,Freelancer,Bachelor,42921,Semi-urban,24.9,Never,Occasional,2.3,9.5,No,Heart Disease,1,3,Moderate,Moderate,Home-cooked,0,2239.05,Basic,1,3890,0.69,Medium
+78,Male,Single,Doctor,SSC,76408,Semi-urban,28.1,Never,Never,4.2,8.4,No,Diabetes,2,0,High,Moderate,Home-cooked,2,6113.66,Basic,7,3880,0.91,Medium
+34,Other,Married,Private Job,Primary,48921,Urban,26.2,Never,Regular,2.6,8.2,No,Diabetes,3,1,High,Moderate,Home-cooked,0,400.38,Comprehensive,5,3440,0.68,Medium
+60,Male,Widowed,Private Job,Master,60998,Urban,30.2,Current,Never,4.7,2.5,Yes,None,4,0,Moderate,Low,Home-cooked,0,13484.8,Comprehensive,7,4200,0.85,Medium
+63,Female,Single,Construction Worker,SSC,23035,Semi-urban,20,Former,Occasional,2.6,6.9,Yes,None,1,1,Low,High,Home-cooked,2,1623.57,Comprehensive,5,3730,0.28,Medium
+32,Female,Single,Student,Bachelor,8960,Semi-urban,25.4,Current,Never,3.1,6.9,Yes,Heart Disease,3,1,Moderate,Low,Home-cooked,0,8878.72,Basic,10,3920,0.89,High
+74,Male,Married,Unemployed,HSC,53,Urban,24.5,Former,Occasional,0,7.4,No,Diabetes,1,3,Moderate,High,Mixed,1,177.44,Comprehensive,4,3840,1,Medium
+31,Other,Married,Construction Worker,HSC,11640,Semi-urban,26.7,Former,Regular,5.2,5.2,Yes,Diabetes,2,1,Low,High,Home-cooked,0,1243.48,Family,5,3410,0.72,Medium
+57,Female,Married,Unemployed,Bachelor,3111,Semi-urban,29.5,Current,Never,3.3,6.7,No,Asthma,2,0,Low,Low,Home-cooked,0,1363.57,Basic,5,4170,1,Medium
+59,Female,Single,Construction Worker,Master,12469,Rural,21.3,Never,Regular,4.3,8.9,No,None,1,0,Low,High,Home-cooked,0,4103.13,Comprehensive,8,3690,0.77,Low
+77,Female,Single,Farmer,Bachelor,13352,Urban,30,Never,Never,0.1,6.8,No,Heart Disease,0,0,Moderate,High,Home-cooked,1,4363.41,Comprehensive,1,3870,0.78,Medium
+39,Female,Married,Farmer,Master,12799,Semi-urban,34.1,Never,Never,1.5,3.9,No,Diabetes,0,1,High,Moderate,Home-cooked,1,5.15,Critical Illness,2,3490,0.98,Medium
+63,Other,Divorced,Unemployed,HSC,3342,Urban,21.3,Never,Occasional,4.8,7.2,No,Diabetes,1,2,Low,Moderate,Mostly Restaurant,2,16694,Comprehensive,3,3730,0.82,Medium
+74,Other,Married,Student,PhD,9620,Semi-urban,26,Never,Never,4.4,4.8,Yes,None,1,0,Moderate,Moderate,Mixed,0,834.16,Basic,2,3840,1,Medium
+20,Male,Married,Doctor,Bachelor,78827,Semi-urban,16.9,Never,Never,4.2,4.3,No,Asthma,1,0,Low,Moderate,Home-cooked,0,2839.16,Critical Illness,1,3300,0.76,Low
+38,Other,Married,Doctor,Master,81125,Urban,25.3,Former,Never,3.9,5.6,No,Diabetes,0,1,Low,Moderate,Home-cooked,0,1180.82,Critical Illness,1,3480,0.79,Low
+57,Female,Divorced,Unemployed,Bachelor,917,Urban,25,Never,Never,0.9,8,No,Heart Disease,1,0,High,High,Home-cooked,1,160.48,Basic,6,3670,0.82,Medium
+49,Female,Single,Unemployed,Bachelor,2430,Rural,27.3,Never,Occasional,7,8.5,Yes,Asthma,1,0,High,Low,Mostly Restaurant,0,6451.77,Basic,7,3590,0.79,Medium
+29,Male,Divorced,Unemployed,SSC,749,Rural,26.9,Never,Never,3.8,5.7,Yes,Diabetes,1,1,Moderate,High,Home-cooked,0,3398.95,Comprehensive,10,3390,0.68,Medium
+52,Other,Single,Freelancer,Master,43120,Rural,23.5,Never,Never,4,7.1,No,None,4,1,Low,Low,Mixed,0,4659.42,Critical Illness,2,3620,0.91,Low
+53,Male,Married,Farmer,PhD,11714,Semi-urban,21.6,Former,Never,4.2,5.8,Yes,Heart Disease,3,1,High,Low,Mixed,0,512.34,Basic,8,3630,0.98,Medium
+19,Female,Married,Construction Worker,Bachelor,21130,Semi-urban,32.6,Former,Never,6.1,4.4,Yes,None,2,0,High,Moderate,Home-cooked,0,5534.09,Critical Illness,9,3290,0.59,Medium
+18,Male,Single,Private Job,HSC,43499,Semi-urban,28.2,Current,Never,5.4,8.3,No,None,3,0,Low,Moderate,Home-cooked,0,293.91,Comprehensive,5,3780,0.68,Low
+37,Other,Widowed,Private Job,HSC,40677,Urban,19.6,Current,Occasional,6.2,9.5,Yes,Hypertension,0,0,Low,Moderate,Home-cooked,1,1466.65,Comprehensive,2,3970,0.66,High
+40,Male,Widowed,Farmer,HSC,9969,Semi-urban,25.4,Former,Occasional,1.7,8.1,Yes,None,1,3,Moderate,High,Mostly Restaurant,1,4226.95,Family,8,3500,0.67,Low
+63,Male,Married,Freelancer,SSC,29508,Urban,19,Never,Occasional,2.1,4.1,Yes,Diabetes,3,0,High,Moderate,Home-cooked,0,5256.43,Comprehensive,6,3730,0.89,Medium
+21,Other,Single,Doctor,SSC,76321,Urban,16.7,Former,Never,1.2,4.5,Yes,None,3,1,High,Moderate,Home-cooked,0,2938.71,Basic,6,3310,0.93,Low
+28,Male,Single,Unemployed,Master,3865,Urban,11.5,Current,Occasional,7.6,4.4,No,Diabetes,4,2,Low,High,Mixed,0,37.96,Family,5,3880,0.37,Medium
+32,Female,Widowed,Freelancer,SSC,23076,Urban,23.8,Never,Never,1.1,5.2,No,Heart Disease,2,0,Moderate,High,Mostly Restaurant,1,1591.56,Basic,4,3420,0.5,Medium
+24,Male,Married,Freelancer,Master,13654,Urban,19.9,Never,Occasional,2.7,5.8,No,Asthma,1,0,Low,Low,Home-cooked,1,4501.33,Critical Illness,10,3340,0.93,Low
+26,Male,Single,Doctor,HSC,50617,Urban,27.7,Current,Occasional,1.6,7.7,No,None,2,1,Moderate,Low,Home-cooked,0,919.7,Basic,3,3860,0.59,Low
+50,Female,Married,Private Job,Primary,31695,Urban,16.3,Never,Regular,3.5,8.7,No,Diabetes,2,1,High,Moderate,Mostly Restaurant,0,6322.11,Comprehensive,1,3600,0.36,Medium
+41,Male,Single,Construction Worker,Master,11241,Rural,29.7,Current,Never,6.4,4,Yes,None,2,2,High,Low,Home-cooked,1,4492.4,Critical Illness,3,4010,0.45,Medium
+61,Other,Single,Construction Worker,Bachelor,18533,Rural,32.4,Never,Occasional,3.8,5.4,Yes,Heart Disease,2,1,High,Low,Home-cooked,0,508.37,Basic,9,3710,0.69,High
+72,Male,Single,Student,SSC,4959,Urban,19.4,Former,Never,2.4,7.8,Yes,Hypertension,2,0,Low,Low,Home-cooked,2,3534.59,Basic,4,3820,0.85,Medium
+31,Male,Married,Freelancer,Bachelor,45585,Urban,25,Never,Regular,2.8,7,Yes,None,2,1,Low,Moderate,Home-cooked,1,3801.58,Critical Illness,6,3410,0.98,Medium
+84,Female,Married,Teacher,Bachelor,22693,Rural,24.1,Never,Never,3,8.1,Yes,Diabetes,0,3,Low,Moderate,Home-cooked,1,3491.46,Family,9,3940,0.79,Medium
+23,Female,Widowed,Private Job,HSC,68519,Semi-urban,23.5,Never,Occasional,2.9,5.9,Yes,Asthma,4,0,Moderate,Moderate,Home-cooked,0,4613.47,Comprehensive,7,3330,0.76,Medium
+48,Female,Married,Freelancer,HSC,36526,Semi-urban,21.2,Never,Never,2.2,5.9,No,Diabetes,0,1,Low,Low,Home-cooked,0,28564.4,Family,1,3580,0.56,Low
+69,Female,Married,Student,Bachelor,5292,Semi-urban,25.9,Never,Never,-1.3,4.5,No,Asthma,2,0,High,High,Mostly Restaurant,0,7811.29,Comprehensive,5,3790,0.69,Medium
+27,Female,Single,Construction Worker,SSC,15542,Urban,18,Current,Never,4,4.4,No,Diabetes,2,0,Moderate,Moderate,Mixed,0,9999.84,Family,2,3870,0.55,Medium
+69,Other,Married,Student,Bachelor,8044,Semi-urban,23,Former,Never,2.2,6.4,No,Heart Disease,3,1,High,Moderate,Home-cooked,1,10704.86,Basic,5,3790,0.73,Medium
+49,Other,Married,Doctor,Bachelor,66724,Rural,11.8,Never,Never,3.4,6.9,No,Asthma,4,2,Moderate,Low,Home-cooked,0,431.15,Basic,1,3590,0.7,Low
+25,Other,Married,Student,SSC,5839,Semi-urban,27.2,Never,Never,5.4,5.6,No,Asthma,4,2,Moderate,Moderate,Home-cooked,1,2064.47,Family,8,3350,0.71,Medium
+35,Male,Single,Teacher,HSC,27232,Semi-urban,21.6,Never,Occasional,2.3,6.8,Yes,Hypertension,3,2,Low,Moderate,Home-cooked,1,9225.76,Basic,8,3450,0.67,Medium
+24,Male,Married,Private Job,HSC,48927,Urban,26,Never,Never,1.7,5.7,Yes,Asthma,4,1,Moderate,Moderate,Home-cooked,0,5837.97,Comprehensive,7,3340,0.82,Medium
+42,Female,Single,Student,HSC,9295,Urban,30.4,Never,Never,2.2,6.9,No,None,2,0,Moderate,Moderate,Home-cooked,1,26.22,Comprehensive,10,3520,0.42,Low
+75,Female,Single,Unemployed,Master,2634,Rural,21.7,Never,Occasional,1.4,5.3,Yes,Asthma,4,1,Moderate,Moderate,Home-cooked,1,7904.19,Basic,4,3850,0.28,Medium
+34,Female,Single,Doctor,SSC,42563,Semi-urban,32.2,Never,Never,4.9,5.6,No,Heart Disease,2,0,Moderate,High,Mixed,0,7683.19,Basic,6,3440,0.87,Medium
+48,Male,Single,Doctor,Bachelor,50258,Semi-urban,19.8,Former,Never,2.7,7.2,No,Asthma,5,1,Moderate,High,Home-cooked,0,9156.73,Critical Illness,7,3580,0.43,Low
+26,Other,Married,Freelancer,Master,18329,Semi-urban,21.4,Never,Never,4.5,3.7,No,Heart Disease,2,2,Moderate,Moderate,Home-cooked,1,3298.26,Basic,6,3360,0.73,Low
+21,Female,Married,Student,HSC,6733,Urban,22.6,Former,Regular,1,6.4,Yes,None,0,0,Moderate,Moderate,Home-cooked,0,184.81,Critical Illness,7,3310,0.86,Medium
+52,Other,Divorced,Unemployed,Master,2014,Semi-urban,21.6,Never,Occasional,4.4,6.8,Yes,Diabetes,0,1,Moderate,High,Mixed,0,1893.07,Critical Illness,7,3620,0.67,Medium
+32,Male,Married,Doctor,Primary,47927,Semi-urban,26.7,Current,Never,5.5,7.1,Yes,Heart Disease,1,0,Low,Moderate,Home-cooked,0,1845.9,Basic,5,3920,0.7,Medium
+29,Other,Single,Freelancer,Primary,35470,Urban,25.9,Former,Never,3.1,5.8,Yes,Heart Disease,4,1,Low,Moderate,Mostly Restaurant,0,5456.02,Basic,9,3390,0.42,Medium
+83,Other,Married,Farmer,SSC,11750,Semi-urban,24.1,Never,Never,1.5,6.2,No,Hypertension,0,1,Moderate,High,Mixed,0,899.86,Comprehensive,4,3930,0.97,Medium
+32,Other,Single,Farmer,Bachelor,8781,Urban,28.4,Never,Regular,2.8,6.2,No,Asthma,0,2,Low,High,Home-cooked,2,3704.65,Basic,8,3420,1,Medium
+58,Male,Married,Student,Bachelor,4211,Rural,20.8,Former,Never,5.1,6,Yes,Hypertension,2,0,Low,Moderate,Mixed,0,4776.43,Critical Illness,6,3680,0.62,Medium
+36,Other,Married,Farmer,HSC,18102,Semi-urban,18.7,Current,Occasional,3.9,6.2,No,Hypertension,1,1,Moderate,Moderate,Mixed,2,6574.46,Comprehensive,9,3960,0.9,Medium
+67,Male,Single,Unemployed,HSC,2772,Urban,24.7,Never,Never,3.2,4.1,Yes,Hypertension,0,0,High,Low,Home-cooked,1,11788.37,Comprehensive,3,3770,0.73,High
+64,Female,Married,Teacher,Bachelor,20433,Semi-urban,24.2,Never,Never,3.3,7.1,Yes,Heart Disease,2,0,Moderate,Moderate,Mixed,1,9071.29,Basic,7,3740,0.54,Medium
+80,Male,Married,Freelancer,Master,47396,Urban,31.3,Never,Never,2,6.2,No,Diabetes,1,3,Low,Low,Mostly Restaurant,0,2469.51,Family,6,3900,0.76,Medium
+31,Other,Single,Doctor,SSC,49031,Urban,21.3,Current,Occasional,2.8,7,Yes,Asthma,2,3,Moderate,Low,Home-cooked,2,8842.01,Basic,3,3910,0.74,High
+64,Male,Married,Farmer,SSC,10723,Urban,24.4,Never,Never,1.8,7.7,No,None,0,0,Moderate,Low,Mostly Restaurant,1,333.32,Comprehensive,8,3740,0.59,Low
+19,Male,Married,Construction Worker,Bachelor,22200,Urban,24.4,Never,Never,5.3,5.1,No,Hypertension,0,4,Moderate,Low,Mostly Restaurant,0,2814.35,Basic,6,3290,0.75,Low
+63,Other,Married,Student,HSC,8702,Urban,26.9,Former,Regular,5.4,5.3,No,Diabetes,3,0,Low,Low,Home-cooked,0,20626.18,Comprehensive,8,3730,0.78,Medium
+55,Male,Married,Freelancer,SSC,16716,Urban,23,Never,Occasional,3.6,2.7,No,Asthma,3,1,Moderate,High,Home-cooked,0,9625.4,Family,1,3650,0.39,Medium
+79,Female,Single,Construction Worker,Primary,14987,Urban,21.5,Never,Regular,0.3,5.6,No,None,4,1,Moderate,Low,Mixed,0,13255.52,Basic,1,3890,0.87,Low
+57,Male,Divorced,Freelancer,HSC,16588,Semi-urban,24.7,Never,Never,1.8,5.4,No,Asthma,2,0,Low,Low,Mixed,0,6955.09,Basic,1,3670,0.77,Medium
+32,Other,Single,Teacher,Bachelor,20889,Urban,18.3,Former,Occasional,3,7.2,No,Heart Disease,6,1,Low,Moderate,Home-cooked,0,12047.21,Comprehensive,1,3420,0.49,Low
+42,Other,Married,Unemployed,HSC,2658,Urban,19.3,Current,Never,0.8,6.1,No,Heart Disease,5,1,Moderate,High,Home-cooked,0,6113.84,Comprehensive,1,4020,0.99,Medium
+41,Female,Single,Doctor,Master,62967,Urban,19.2,Former,Occasional,2.1,6.6,Yes,Hypertension,2,1,Low,High,Home-cooked,1,2267.45,Basic,4,3510,0.67,Medium
+73,Other,Single,Doctor,Bachelor,69504,Rural,18.4,Never,Occasional,3.2,6.3,Yes,None,3,0,Low,Moderate,Home-cooked,0,696.58,Critical Illness,10,3830,0.67,Low
+54,Male,Married,Unemployed,Bachelor,2416,Rural,16.3,Never,Occasional,0,7.3,No,Hypertension,1,2,High,Moderate,Mostly Restaurant,0,1800.07,Comprehensive,3,3640,0.29,Medium
+63,Male,Single,Teacher,HSC,23491,Rural,25.6,Never,Never,2.3,7.4,No,Heart Disease,2,1,Moderate,Moderate,Home-cooked,1,9571.59,Basic,5,3730,0.57,Medium
+53,Male,Married,Doctor,Master,50238,Semi-urban,22.2,Never,Never,3.6,5.5,Yes,Hypertension,2,2,Moderate,Low,Home-cooked,1,2352.66,Basic,6,3630,0.87,Medium
+50,Other,Single,Teacher,Primary,17454,Urban,30,Former,Never,2.3,7.1,No,Asthma,2,2,High,Low,Mostly Restaurant,1,10747.81,Comprehensive,5,3600,1,Medium
+30,Female,Married,Freelancer,SSC,43905,Rural,35.2,Never,Never,3.9,8.1,Yes,Asthma,2,2,Moderate,High,Mixed,1,11.6,Comprehensive,3,3400,0.8,Medium
+82,Female,Single,Freelancer,Master,22935,Urban,24.9,Current,Never,3.3,5.6,No,Diabetes,2,1,Low,Moderate,Home-cooked,0,3982.88,Basic,2,4420,0.76,Medium
+62,Female,Married,Teacher,Bachelor,33514,Urban,27.3,Current,Never,4.9,4.1,No,None,1,2,Low,High,Home-cooked,1,3235.49,Critical Illness,1,4220,0.55,Medium
+34,Other,Single,Construction Worker,Bachelor,12828,Urban,8.9,Former,Never,3.4,9.2,No,Heart Disease,0,1,Moderate,High,Mixed,1,8147.14,Basic,6,3440,0.95,Medium
+47,Male,Married,Doctor,HSC,73996,Urban,20.5,Never,Occasional,2.2,5.7,No,Heart Disease,2,1,Moderate,High,Mostly Restaurant,0,6137.51,Basic,7,3570,0.73,Low
+67,Female,Married,Teacher,HSC,37440,Urban,24.9,Never,Never,0.9,6.8,Yes,Diabetes,4,1,Low,Moderate,Mixed,0,4157.78,Basic,9,3770,0.91,Medium
+72,Male,Married,Freelancer,SSC,43002,Urban,25.9,Current,Never,1.4,9.9,No,Asthma,1,1,Low,High,Home-cooked,1,588.16,Critical Illness,3,4320,0.62,Medium
+30,Male,Married,Student,Primary,4257,Urban,28.2,Current,Occasional,5.6,7.5,No,Heart Disease,0,1,Moderate,High,Home-cooked,0,6679.84,Family,6,3900,0.85,Medium
+61,Other,Single,Farmer,HSC,9548,Urban,25.1,Never,Never,6,6.9,No,Diabetes,3,1,Low,Moderate,Home-cooked,1,11825.81,Family,4,3710,0.57,Medium
+41,Other,Married,Teacher,SSC,16401,Urban,24.6,Never,Regular,6.1,6.1,No,Hypertension,1,0,Low,Moderate,Home-cooked,1,2139.29,Basic,5,3510,0.74,Medium
+24,Male,Married,Unemployed,Bachelor,3575,Urban,21.6,Current,Never,2.2,6.9,No,Hypertension,3,3,Low,Moderate,Mixed,0,5262.81,Comprehensive,6,3840,0.81,Medium
+34,Other,Married,Unemployed,Bachelor,460,Urban,28.5,Current,Never,3.1,7.2,Yes,Asthma,4,0,Moderate,High,Mixed,1,13339.83,Comprehensive,4,3940,0.49,High
+69,Male,Married,Private Job,Master,54464,Semi-urban,24,Former,Never,-0.3,5.7,Yes,None,2,1,Moderate,Moderate,Mixed,0,906.11,Family,8,3790,0.74,Low
+61,Female,Single,Construction Worker,Primary,17888,Rural,24.2,Never,Never,3.7,5.9,No,Asthma,1,2,Low,Moderate,Home-cooked,4,18928.69,Family,7,3710,0.38,Medium
+25,Female,Divorced,Student,Bachelor,5212,Semi-urban,31.4,Never,Regular,3.7,6,No,None,0,0,Low,High,Home-cooked,1,5030.58,Comprehensive,8,3350,0.7,Medium
+59,Other,Single,Private Job,Bachelor,63463,Urban,21.2,Never,Never,0.1,11.7,Yes,Heart Disease,2,0,Moderate,High,Mixed,0,2938.22,Comprehensive,10,3690,0.41,Medium
+34,Female,Single,Private Job,HSC,30195,Semi-urban,20,Never,Occasional,4.5,4.9,No,Heart Disease,3,0,High,High,Home-cooked,1,2811.5,Basic,7,3440,0.84,Medium
+43,Other,Single,Unemployed,Bachelor,1422,Semi-urban,20.7,Never,Occasional,1.4,7.6,No,None,0,1,Moderate,Low,Mixed,0,10580.39,Comprehensive,1,3530,0.37,Low
+84,Male,Single,Construction Worker,Bachelor,22327,Urban,24.3,Never,Occasional,5.6,5.6,Yes,Hypertension,2,1,Low,Moderate,Mostly Restaurant,0,316.46,Comprehensive,6,3940,0.69,Medium
+74,Female,Married,Construction Worker,Bachelor,24245,Urban,29.5,Never,Never,1.2,4.9,Yes,None,4,0,Low,High,Mixed,0,2054.64,Basic,6,3840,1,Low
+56,Male,Married,Doctor,Master,68884,Urban,33,Current,Occasional,3.8,7.2,Yes,Heart Disease,2,0,High,Low,Home-cooked,0,1758.86,Basic,9,4160,0.59,High
+38,Female,Single,Unemployed,Master,2536,Urban,26.7,Never,Never,4.8,6,Yes,Heart Disease,4,1,Low,Moderate,Home-cooked,0,2044.43,Basic,4,3480,1,Medium
+20,Other,Single,Private Job,Bachelor,38287,Semi-urban,12,Never,Occasional,2.9,7.2,No,Asthma,2,1,Moderate,Low,Mixed,2,1339.22,Basic,3,3300,0.59,Medium
+23,Male,Married,Construction Worker,None,15287,Urban,26.1,Never,Never,2.4,7.4,No,Heart Disease,3,0,Moderate,Moderate,Home-cooked,0,13689.75,Basic,2,3330,0.9,Low
+33,Male,Single,Teacher,HSC,36074,Urban,19,Former,Regular,0.8,8.4,No,Diabetes,2,0,Moderate,High,Home-cooked,1,2834.92,Basic,3,3430,0.4,Medium
+83,Male,Married,Unemployed,Bachelor,4310,Semi-urban,27.4,Never,Never,4.3,7.1,No,None,1,2,High,High,Mixed,0,19306.06,Comprehensive,9,3930,0.67,Medium
+58,Other,Divorced,Teacher,Bachelor,35186,Semi-urban,15.3,Never,Regular,2.7,7.9,Yes,Diabetes,2,0,High,High,Home-cooked,1,482.92,Comprehensive,3,3680,0.44,High
+83,Male,Single,Unemployed,SSC,4168,Urban,28.3,Never,Never,6.5,4,No,Diabetes,0,0,Moderate,Moderate,Home-cooked,0,2980.87,Basic,5,3930,0.73,Medium
+76,Female,Married,Private Job,Bachelor,67994,Urban,21.5,Current,Occasional,2.7,4.4,Yes,Diabetes,3,2,Moderate,High,Home-cooked,0,5468.04,Basic,10,4360,1,High
+44,Male,Widowed,Unemployed,Primary,4739,Urban,9.9,Former,Occasional,4.2,9.4,No,Heart Disease,2,1,High,Moderate,Mixed,1,2200.06,Critical Illness,5,3540,0.81,Medium
+60,Female,Single,Doctor,Bachelor,87399,Urban,21.1,Never,Never,3.5,7.2,Yes,Hypertension,2,2,High,High,Mostly Restaurant,0,354.57,Comprehensive,10,3700,0.79,Medium
+23,Other,Married,Farmer,Master,17909,Urban,29,Never,Never,2.5,8.1,Yes,Diabetes,2,1,High,Moderate,Mixed,0,7687.86,Family,10,3330,0.79,Medium
+74,Male,Single,Teacher,SSC,38299,Urban,21.5,Never,Occasional,5.9,4.6,Yes,Hypertension,1,0,Moderate,Moderate,Home-cooked,0,5456.49,Basic,7,3840,0.86,Medium
+84,Male,Single,Private Job,HSC,32356,Rural,38.7,Never,Never,5.5,4.5,No,Hypertension,5,0,Low,Low,Mixed,0,14161.34,Basic,1,3940,0.44,Medium
+78,Female,Single,Doctor,Bachelor,88114,Urban,28.6,Never,Regular,4,7.1,No,None,2,1,Low,Moderate,Home-cooked,1,625.27,Basic,1,3880,0.82,Low
+83,Other,Married,Construction Worker,HSC,21281,Semi-urban,20.5,Current,Regular,0.5,6.2,No,Asthma,2,0,Moderate,Low,Home-cooked,0,1334.19,Basic,8,4430,0.64,High
+26,Other,Single,Unemployed,Master,448,Urban,10.8,Former,Never,3,7,No,Asthma,1,1,Moderate,Moderate,Mixed,0,770.66,Basic,10,3360,0.88,Medium
+34,Other,Married,Construction Worker,Bachelor,22592,Rural,23.8,Never,Regular,1.5,9.5,Yes,Hypertension,2,2,High,High,Home-cooked,2,2029.54,Critical Illness,9,3440,0.89,High
+46,Female,Divorced,Construction Worker,HSC,14008,Urban,30.2,Never,Never,2.1,6.4,No,None,0,1,Moderate,Moderate,Home-cooked,0,17220.39,Family,4,3560,0.71,Low
+74,Female,Single,Unemployed,Bachelor,4316,Urban,23.7,Never,Never,1.9,6.7,Yes,None,3,0,High,High,Home-cooked,0,13245.73,Comprehensive,2,3840,0.64,Medium
+79,Other,Married,Farmer,HSC,9505,Urban,24.5,Never,Never,1.8,8.7,Yes,Asthma,2,1,Moderate,High,Home-cooked,0,6245.48,Family,7,3890,0.26,Medium
+26,Female,Widowed,Unemployed,HSC,990,Semi-urban,31.3,Never,Never,2.3,6.7,No,Hypertension,2,1,High,Moderate,Mixed,0,1025.12,Basic,2,3360,0.93,Medium
+27,Male,Married,Teacher,Master,27682,Semi-urban,26.8,Former,Never,2.9,8.8,Yes,Diabetes,3,2,Moderate,Low,Home-cooked,0,5316.84,Basic,7,3370,0.27,Medium
+39,Other,Married,Unemployed,Bachelor,2934,Urban,27.3,Never,Never,4.4,5.5,Yes,None,1,0,Moderate,Moderate,Home-cooked,0,10967.04,Comprehensive,5,3490,0.79,Low
+77,Other,Married,Doctor,SSC,73457,Urban,20.7,Never,Never,3.6,7.6,No,Heart Disease,7,1,Low,Moderate,Home-cooked,0,1914.39,Comprehensive,3,3870,0.82,Medium
+76,Other,Single,Construction Worker,HSC,24282,Rural,30.7,Never,Regular,4.3,8.1,Yes,Diabetes,6,1,Moderate,Moderate,Home-cooked,0,4542.26,Comprehensive,8,3860,1,High
+28,Other,Single,Unemployed,Master,2827,Semi-urban,29.6,Never,Regular,4.1,7.5,Yes,None,0,1,High,Moderate,Mostly Restaurant,1,14210.08,Comprehensive,5,3380,1,Medium
+61,Other,Married,Student,Master,5716,Semi-urban,27.8,Never,Never,4.2,4.5,Yes,Hypertension,0,1,High,Moderate,Mostly Restaurant,1,5782.19,Comprehensive,1,3710,0.62,High
+76,Other,Married,Teacher,HSC,31590,Semi-urban,11.4,Never,Occasional,2.4,6.9,No,Asthma,3,0,Moderate,Low,Mostly Restaurant,0,161.29,Family,8,3860,0.47,Medium
+47,Other,Married,Freelancer,Primary,35517,Urban,27.1,Current,Never,1.4,7.8,No,Heart Disease,1,3,Low,Moderate,Mostly Restaurant,1,2041.94,Comprehensive,7,4070,0.57,Medium
+70,Female,Married,Farmer,HSC,17116,Semi-urban,22,Former,Never,5.7,6.4,No,Hypertension,0,1,Moderate,Low,Home-cooked,0,3773.85,Family,5,3800,0.45,Medium
+57,Other,Single,Farmer,HSC,8191,Urban,21.6,Never,Never,2.3,5.3,No,Heart Disease,1,0,Low,Low,Home-cooked,1,2097.66,Comprehensive,8,3670,0.44,Medium
+39,Other,Married,Student,SSC,5713,Semi-urban,24.9,Never,Occasional,8.4,7,No,Diabetes,1,0,Low,Moderate,Home-cooked,0,1829.76,Critical Illness,9,3490,0.5,Medium
+72,Male,Married,Doctor,Bachelor,95479,Urban,29.6,Never,Never,4.4,5.9,Yes,Diabetes,5,1,Low,Moderate,Home-cooked,0,3300.31,Family,3,3820,0.86,Medium
+77,Female,Single,Construction Worker,Bachelor,17185,Urban,21.5,Former,Never,3.7,6.9,Yes,Heart Disease,3,1,Low,Moderate,Mixed,1,4230.06,Basic,5,3870,0.45,Medium
+84,Female,Married,Farmer,Master,14855,Rural,30.2,Current,Never,1.9,6,No,None,4,0,High,Moderate,Home-cooked,0,3690.23,Critical Illness,6,4440,0.85,Medium
+21,Female,Single,Unemployed,Master,2547,Semi-urban,20.2,Never,Never,1.2,4.4,No,Heart Disease,1,5,Low,Moderate,Home-cooked,0,7403.38,Comprehensive,7,3310,0.75,Medium
+19,Other,Married,Student,Master,4805,Urban,22.9,Former,Never,6.7,8.2,No,Diabetes,0,1,High,High,Home-cooked,1,7426.22,Comprehensive,5,3290,0.85,Medium
+69,Other,Single,Private Job,Bachelor,55464,Semi-urban,20.1,Former,Never,4.4,5.9,No,None,2,3,Moderate,Moderate,Mostly Restaurant,0,4202.03,Comprehensive,1,3790,0.29,Low
+49,Other,Single,Freelancer,Bachelor,19783,Rural,29.6,Never,Regular,1.4,5.2,Yes,Hypertension,1,0,Moderate,Moderate,Mixed,0,1739.11,Basic,8,3590,0.67,Medium
+45,Other,Married,Farmer,Master,17765,Urban,25.7,Former,Never,4.1,5.1,Yes,Heart Disease,1,2,Low,High,Home-cooked,1,2077.36,Comprehensive,8,3550,0.5,Medium
+73,Male,Married,Farmer,HSC,18848,Semi-urban,21.7,Former,Never,0.7,4.9,Yes,Asthma,3,1,Low,Moderate,Mostly Restaurant,1,4312.46,Basic,3,3830,0.76,Medium
+41,Other,Single,Private Job,HSC,30703,Semi-urban,29.7,Never,Never,0.8,5.3,Yes,Asthma,1,1,Moderate,Moderate,Home-cooked,0,6638.73,Basic,1,3510,0.58,Medium
+55,Other,Single,Freelancer,Bachelor,33576,Semi-urban,28.6,Never,Regular,3.2,8.4,Yes,None,6,0,Low,Low,Home-cooked,0,8759.36,Critical Illness,5,3650,0.53,Medium
+70,Male,Married,Doctor,SSC,60922,Semi-urban,31.6,Never,Occasional,4.2,6.6,Yes,Asthma,1,0,Moderate,Moderate,Mixed,0,1757.43,Basic,6,3800,0.66,Medium
+75,Other,Married,Teacher,Bachelor,33103,Semi-urban,16.4,Never,Never,2.5,4.4,Yes,Asthma,4,0,Low,Moderate,Home-cooked,0,8192.13,Critical Illness,1,3850,0.83,Medium
+30,Female,Married,Farmer,Bachelor,10821,Urban,22.5,Current,Occasional,2.5,8.7,No,None,2,0,Moderate,Moderate,Home-cooked,1,2730.2,Basic,2,3900,0.79,Low
+43,Male,Single,Doctor,Bachelor,57369,Urban,20.4,Never,Never,1.5,8.8,Yes,Asthma,0,2,Moderate,Moderate,Mixed,2,1925.75,Critical Illness,1,3530,0.71,Medium
+67,Other,Single,Private Job,SSC,64172,Urban,20.5,Never,Never,1.1,5.8,No,Diabetes,2,2,Moderate,Low,Home-cooked,0,17316.63,Comprehensive,9,3770,0.71,Medium
+62,Other,Married,Unemployed,HSC,3384,Rural,31.3,Never,Never,1.9,9.5,Yes,Hypertension,3,3,Low,Moderate,Home-cooked,0,12329.09,Basic,10,3720,0.77,Medium
+35,Female,Married,Unemployed,Bachelor,1029,Urban,24.8,Never,Occasional,5,7.3,No,None,2,0,High,Low,Mixed,2,710.15,Comprehensive,6,3450,0.87,Medium
+28,Female,Single,Construction Worker,HSC,17483,Rural,26.2,Never,Never,0.7,5.4,Yes,Asthma,2,0,High,Low,Mixed,0,7079.3,Basic,10,3380,0.49,Medium
+75,Other,Married,Freelancer,Master,35933,Semi-urban,21.6,Never,Occasional,1.8,7.2,Yes,Hypertension,2,0,High,Moderate,Home-cooked,0,2495.27,Comprehensive,5,3850,0.63,Medium
+76,Male,Single,Private Job,HSC,33675,Urban,19.1,Current,Regular,5.8,6.3,Yes,Hypertension,0,1,High,High,Mostly Restaurant,1,3599.34,Critical Illness,8,4360,0.7,High
+29,Other,Single,Doctor,HSC,68202,Semi-urban,16.8,Current,Occasional,4.7,5.1,No,Asthma,5,1,Low,Moderate,Mixed,0,1757.67,Basic,7,3890,0.46,Medium
+46,Male,Married,Teacher,HSC,29616,Semi-urban,25.9,Former,Occasional,2.2,3.8,No,Asthma,3,0,Low,Low,Mixed,0,651.18,Family,3,3560,0.89,Low
+36,Other,Widowed,Freelancer,Master,27695,Semi-urban,24.6,Never,Regular,2.3,5.2,Yes,Asthma,0,1,Low,High,Home-cooked,0,3512.14,Comprehensive,4,3460,0.71,Medium
+36,Other,Divorced,Freelancer,Master,20680,Semi-urban,15.6,Never,Occasional,-1.1,8.8,No,Diabetes,2,1,Low,High,Home-cooked,0,524.28,Basic,7,3460,0.92,Low
+43,Female,Single,Doctor,Master,98251,Urban,27.3,Current,Occasional,1.6,7.4,Yes,Heart Disease,0,0,Low,Moderate,Mostly Restaurant,2,1960.25,Basic,10,4030,0.62,High
+44,Female,Married,Construction Worker,HSC,17984,Urban,27.6,Never,Never,0.9,7.4,Yes,Hypertension,2,0,Moderate,Moderate,Home-cooked,0,9467.18,Basic,9,3540,0.44,Medium
+51,Female,Married,Farmer,Bachelor,9881,Urban,23.1,Never,Never,2.4,6.6,Yes,Diabetes,2,0,Low,High,Home-cooked,2,11053.87,Family,4,3610,0.65,Medium
+41,Male,Married,Doctor,Primary,59053,Semi-urban,23.1,Former,Never,4.5,7.2,No,Hypertension,2,3,Moderate,Low,Home-cooked,1,5.56,Comprehensive,5,3510,0.55,Medium
+38,Male,Single,Teacher,SSC,37258,Urban,27.3,Former,Never,6.9,5.2,No,Heart Disease,0,3,Moderate,Moderate,Mixed,0,6527.06,Basic,1,3480,0.62,Low
+48,Other,Married,Private Job,Master,36309,Semi-urban,30.7,Current,Occasional,3.5,8.8,No,Hypertension,2,1,Moderate,Moderate,Mixed,0,8851.64,Basic,6,4080,0.48,Medium
+46,Male,Married,Construction Worker,Bachelor,21795,Urban,19.9,Never,Never,-0.3,8.3,Yes,Heart Disease,1,1,High,Low,Mixed,0,5911.42,Comprehensive,4,3560,0.93,Medium
+56,Female,Married,Doctor,Bachelor,60469,Rural,29.6,Former,Never,4.5,6.4,Yes,Diabetes,2,1,Low,Low,Home-cooked,0,1769.65,Family,9,3660,0.31,Medium
+37,Other,Single,Farmer,HSC,13326,Urban,27.3,Former,Never,0.5,9.5,Yes,Heart Disease,1,3,Low,Low,Mostly Restaurant,1,5121.68,Critical Illness,4,3470,0.7,Medium
+42,Male,Married,Farmer,Bachelor,9652,Semi-urban,22.1,Former,Occasional,2.7,7.6,No,Asthma,2,1,Moderate,High,Home-cooked,0,13646.11,Basic,7,3520,0.9,Medium
+62,Female,Single,Student,HSC,2790,Semi-urban,24,Former,Never,1.6,7,Yes,Diabetes,0,2,Low,High,Home-cooked,0,3038.36,Family,9,3720,0.69,Medium
+24,Other,Single,Freelancer,SSC,27848,Semi-urban,15.6,Never,Occasional,1,6.1,Yes,Heart Disease,1,0,High,Moderate,Home-cooked,0,4018.9,Family,2,3340,0.51,Medium
+78,Other,Married,Unemployed,HSC,1869,Urban,16.1,Never,Never,1.4,6.4,No,Hypertension,2,3,Low,Low,Home-cooked,0,3239.33,Family,4,3880,0.68,Medium
+35,Male,Married,Student,Primary,9257,Rural,26.2,Never,Never,-2.1,7.5,No,Hypertension,4,1,Low,High,Home-cooked,1,708.85,Family,2,3450,0.73,Medium
+69,Other,Married,Farmer,HSC,8421,Urban,25.6,Current,Never,5.4,8.2,Yes,None,5,2,Low,Moderate,Mostly Restaurant,0,4912.83,Basic,9,4290,0.59,Medium
+75,Other,Widowed,Farmer,Primary,11124,Urban,27.5,Never,Occasional,0.7,6.3,No,Diabetes,1,0,Moderate,Low,Home-cooked,0,262.52,Comprehensive,6,3850,0.54,Medium
+36,Female,Married,Construction Worker,HSC,14086,Semi-urban,24.2,Never,Occasional,2.1,6.8,Yes,None,1,0,Moderate,Moderate,Home-cooked,2,11653.06,Comprehensive,1,3460,0.7,Low
+61,Male,Married,Student,Master,8144,Urban,27.2,Former,Occasional,4.5,5.1,No,Diabetes,0,2,Low,High,Home-cooked,1,1683.67,Critical Illness,9,3710,0.8,Medium
+68,Male,Married,Teacher,Primary,28983,Urban,24.6,Current,Never,4,5.1,No,Asthma,1,0,High,Low,Home-cooked,0,7985.42,Basic,2,4280,0.93,High
+62,Female,Single,Student,HSC,9537,Rural,26.5,Never,Never,2.3,5.8,No,Asthma,3,1,Moderate,High,Home-cooked,1,4318.01,Basic,3,3720,0.82,Medium
+45,Male,Divorced,Doctor,Master,99644,Semi-urban,33.8,Never,Never,2.1,8.2,No,Heart Disease,0,3,Moderate,Moderate,Mostly Restaurant,1,2846.27,Basic,5,3550,1,Medium
+42,Female,Married,Teacher,SSC,25304,Rural,23.1,Never,Occasional,4,7.6,Yes,Hypertension,1,0,High,Moderate,Home-cooked,0,8786.75,Basic,3,3520,0.46,Medium
+59,Female,Single,Student,Bachelor,7254,Urban,24.3,Current,Never,0.2,6.2,No,Asthma,2,1,Moderate,Moderate,Home-cooked,0,2685.11,Basic,9,4190,0.49,Medium
+55,Male,Single,Student,Master,2901,Rural,25.2,Never,Occasional,1.5,3.2,No,Diabetes,2,0,Moderate,Moderate,Mixed,1,11066.39,Basic,2,3650,0.94,Medium
+36,Male,Single,Unemployed,Master,1664,Urban,21.1,Current,Occasional,1.4,5.6,Yes,Diabetes,2,1,High,Low,Mostly Restaurant,0,459.42,Comprehensive,10,3960,0.55,High
+27,Other,Single,Student,HSC,8685,Urban,16.1,Never,Regular,6,5.9,No,Heart Disease,1,0,Moderate,Low,Mixed,0,6138.17,Comprehensive,5,3370,0.86,Medium
+37,Other,Single,Farmer,Master,14915,Urban,25.7,Never,Never,1.2,5.9,No,Hypertension,1,1,Moderate,High,Home-cooked,0,2691.52,Critical Illness,5,3470,0.67,Low
+69,Other,Married,Farmer,Master,19932,Urban,21.8,Never,Never,1.2,6.4,No,Asthma,3,0,Low,Low,Home-cooked,0,5053.95,Basic,6,3790,0.8,Medium
+76,Female,Single,Unemployed,Bachelor,2263,Semi-urban,30.7,Current,Regular,1.6,4.2,Yes,Hypertension,0,1,Moderate,Moderate,Mixed,0,1905.88,Critical Illness,4,4360,0.47,High
+59,Male,Married,Construction Worker,Bachelor,11030,Rural,25.7,Never,Regular,3.3,4.8,Yes,Hypertension,3,0,Low,Moderate,Mixed,2,15223.22,Basic,5,3690,0.95,Medium
+71,Other,Single,Freelancer,Master,32706,Semi-urban,29.1,Never,Never,4.7,4.8,No,None,2,1,Low,Moderate,Home-cooked,1,921.29,Basic,10,3810,0.86,Low
+50,Male,Single,Unemployed,None,1412,Rural,26.7,Never,Never,4.7,8.3,Yes,Heart Disease,3,1,Low,Low,Mixed,0,16274.67,Basic,2,3600,0.91,Medium
+53,Male,Married,Freelancer,Master,31452,Urban,18.9,Current,Never,2.4,6.5,Yes,Heart Disease,2,0,Low,Low,Home-cooked,0,2905.03,Critical Illness,7,4130,0.65,High
+48,Other,Widowed,Freelancer,SSC,24645,Rural,31,Former,Regular,2.2,7.3,No,Hypertension,2,0,Moderate,High,Home-cooked,1,1934.6,Family,6,3580,0.6,Medium
+37,Female,Single,Student,Master,8591,Rural,26.4,Never,Regular,4.4,6.7,Yes,Hypertension,2,1,Moderate,High,Mostly Restaurant,0,4855.46,Basic,10,3470,0.64,Medium
+72,Other,Single,Unemployed,SSC,2921,Semi-urban,23.5,Never,Regular,2.1,5.6,Yes,Diabetes,3,1,High,Moderate,Mixed,1,22477.34,Basic,8,3820,0.92,High
+35,Male,Single,Construction Worker,Bachelor,24917,Urban,21.9,Former,Occasional,4.3,8.2,Yes,Asthma,2,0,Moderate,Moderate,Home-cooked,1,24072.79,Comprehensive,6,3450,0.72,Medium
+41,Female,Single,Farmer,SSC,17142,Urban,28.6,Current,Occasional,2.4,6.5,Yes,Hypertension,1,1,Moderate,High,Home-cooked,0,1769.58,Basic,7,4010,0.88,Medium
+73,Female,Widowed,Teacher,HSC,30927,Rural,32.5,Never,Never,2.7,6.2,Yes,Heart Disease,1,0,Moderate,Moderate,Home-cooked,1,72.43,Basic,7,3830,0.48,Medium
+24,Other,Single,Farmer,SSC,18691,Urban,19.5,Never,Never,4,6.6,No,Heart Disease,3,1,Low,Low,Home-cooked,0,2668.05,Comprehensive,7,3340,0.31,Low
+40,Female,Single,Freelancer,None,16937,Urban,24.2,Current,Occasional,6.8,6.5,No,Hypertension,3,2,Low,Moderate,Mixed,0,6846.55,Critical Illness,10,4000,0.96,Medium
+49,Female,Married,Private Job,Master,69768,Urban,24.9,Current,Never,4.3,7.3,No,Hypertension,1,2,Low,Moderate,Home-cooked,0,13512.08,Basic,9,4090,0.88,Medium
+49,Female,Married,Construction Worker,Master,10283,Semi-urban,22.4,Never,Occasional,4.6,4.8,Yes,Diabetes,0,1,Moderate,High,Home-cooked,0,420.07,Family,8,3590,0.93,Medium
+34,Male,Married,Farmer,Master,17533,Urban,25.6,Never,Occasional,6.3,6.7,No,None,1,0,High,Moderate,Home-cooked,1,2326.73,Critical Illness,1,3440,0.9,Low
+46,Other,Single,Doctor,SSC,79930,Semi-urban,16.5,Never,Regular,3,9.4,Yes,Hypertension,3,2,Low,Moderate,Mostly Restaurant,0,1871.23,Comprehensive,3,3560,0.67,Medium
+66,Other,Single,Private Job,HSC,59779,Semi-urban,26.1,Current,Never,3.8,5.7,No,None,2,1,Low,Moderate,Home-cooked,1,6918.88,Family,10,4260,0.67,Medium
+50,Other,Married,Farmer,SSC,8067,Urban,23.6,Never,Never,4.1,7.9,Yes,Diabetes,2,1,Moderate,Low,Home-cooked,0,4.72,Comprehensive,2,3600,0.69,Medium
+40,Female,Divorced,Private Job,HSC,59041,Urban,28.4,Former,Never,4.5,6.6,No,Asthma,2,1,Low,Moderate,Mixed,0,8457.18,Basic,5,3500,0.78,Low
+68,Female,Married,Student,Bachelor,7190,Rural,22.4,Current,Never,3.7,4.7,No,Heart Disease,3,0,Low,Moderate,Mixed,0,1943.54,Basic,6,4280,0.65,Medium
+52,Male,Single,Unemployed,Master,2166,Urban,30.6,Former,Occasional,3.3,6.7,Yes,Hypertension,2,0,Moderate,High,Home-cooked,1,11431.36,Comprehensive,2,3620,0.66,High
+36,Other,Divorced,Student,Bachelor,2641,Urban,30.8,Never,Never,6.3,11.2,Yes,None,2,1,High,Low,Home-cooked,0,2865.69,Family,6,3460,0.48,Medium
+38,Male,Single,Unemployed,Primary,4230,Urban,27.8,Never,Never,4,5.9,No,None,1,0,Low,High,Mixed,1,1962.32,Basic,8,3480,0.86,Low
+38,Female,Married,Doctor,Master,60308,Urban,30,Never,Never,2.7,6,No,Diabetes,4,1,Low,Moderate,Home-cooked,0,6348.35,Comprehensive,7,3480,0.6,Low
+50,Male,Divorced,Construction Worker,Bachelor,17072,Urban,30.1,Never,Never,-0.1,6.1,Yes,Asthma,4,0,High,Moderate,Mixed,0,9425.35,Basic,2,3600,0.78,Medium
+36,Female,Married,Private Job,Bachelor,42223,Semi-urban,23.9,Never,Occasional,1.6,6.8,No,Asthma,2,2,Low,Moderate,Mixed,0,80.79,Family,2,3460,0.85,Low
+19,Female,Married,Student,Bachelor,8782,Semi-urban,21.7,Current,Never,3.8,4.4,No,Heart Disease,2,2,Moderate,Moderate,Home-cooked,0,1769.16,Basic,4,3790,0.73,Medium
+82,Female,Divorced,Private Job,Bachelor,63964,Rural,18.1,Former,Never,2.8,6.1,Yes,Diabetes,3,0,High,High,Mixed,0,8481.93,Comprehensive,1,3920,0.63,Medium
+26,Other,Single,Student,Bachelor,4571,Rural,20.9,Never,Never,-2.8,9.4,No,Diabetes,1,2,Moderate,High,Mixed,0,1857.54,Basic,3,3360,0.49,Medium
+71,Other,Single,Unemployed,Master,4943,Semi-urban,19,Never,Occasional,-0.4,7.5,Yes,Heart Disease,5,1,Low,Low,Home-cooked,0,1388.95,Family,10,3810,0.44,Medium
+18,Male,Divorced,Freelancer,Bachelor,25194,Urban,29.5,Never,Occasional,1.8,6.2,No,Heart Disease,3,2,Low,Moderate,Home-cooked,0,3612.77,Basic,7,3280,0.62,Low
+66,Male,Divorced,Teacher,Bachelor,21617,Urban,28,Never,Occasional,5.2,5.1,No,Asthma,0,2,Low,High,Home-cooked,0,321.12,Basic,7,3760,0.66,Medium
+45,Female,Widowed,Unemployed,SSC,4428,Rural,19.2,Never,Never,1.8,5.9,No,Hypertension,2,0,Low,Low,Home-cooked,0,14060.76,Basic,5,3550,0.56,Medium
+72,Male,Married,Doctor,Bachelor,44137,Semi-urban,20.1,Never,Occasional,0.4,6.8,No,Asthma,0,3,Moderate,Moderate,Home-cooked,0,98.2,Comprehensive,4,3820,1,Medium
+78,Other,Single,Student,Master,5367,Semi-urban,24.3,Never,Never,-0.3,6.6,Yes,Hypertension,2,1,Low,High,Home-cooked,0,11056.46,Basic,5,3880,0.72,Medium
+38,Other,Married,Doctor,Primary,54021,Urban,24.6,Current,Never,1.7,7.2,No,Asthma,1,0,High,High,Home-cooked,0,16989.78,Critical Illness,7,3980,0.13,Medium
+83,Female,Married,Doctor,Master,48695,Rural,24.2,Never,Never,2.1,8.1,Yes,Hypertension,3,1,Moderate,Moderate,Home-cooked,0,691.85,Basic,4,3930,0.87,Medium
+46,Other,Married,Farmer,Master,8722,Urban,30.4,Never,Never,1.8,5.9,Yes,Diabetes,2,2,Moderate,Low,Mixed,0,8303.1,Comprehensive,1,3560,0.47,Medium
+66,Female,Single,Private Job,Bachelor,42906,Urban,30.1,Former,Occasional,3.1,6.8,No,Asthma,3,2,Moderate,Moderate,Home-cooked,0,1522.34,Comprehensive,9,3760,0.61,Medium
+68,Male,Married,Teacher,Bachelor,36073,Semi-urban,22.3,Never,Occasional,2.3,5.6,No,Hypertension,1,1,Moderate,High,Mixed,1,14832.84,Critical Illness,2,3780,0.63,Medium
+59,Female,Married,Private Job,SSC,67761,Semi-urban,22.2,Current,Occasional,5.1,6.1,No,Heart Disease,2,1,Low,Low,Home-cooked,1,1852.92,Basic,3,4190,0.7,Medium
+68,Other,Married,Doctor,Master,91531,Semi-urban,25.3,Never,Occasional,2,7.9,No,Hypertension,1,1,Moderate,High,Home-cooked,2,2938.49,Basic,5,3780,0.54,Medium
+57,Male,Divorced,Private Job,HSC,23127,Semi-urban,22,Never,Never,5,4.8,Yes,Diabetes,0,1,High,Moderate,Home-cooked,0,1997.76,Basic,10,3670,0.93,Medium
+39,Female,Widowed,Private Job,Master,48091,Urban,27.4,Current,Never,0.7,7.6,No,Asthma,1,1,High,Moderate,Home-cooked,0,2030.65,Family,7,3990,0.74,Medium
+73,Female,Married,Doctor,SSC,94387,Semi-urban,19.3,Never,Regular,1.9,3.4,Yes,Diabetes,1,0,Moderate,Moderate,Mixed,2,561.44,Comprehensive,6,3830,0.71,High
+55,Male,Married,Freelancer,Bachelor,19979,Rural,20.1,Current,Occasional,4.8,5.6,Yes,Asthma,1,2,High,Low,Home-cooked,0,2828.26,Basic,2,4150,0.85,High
+33,Female,Married,Student,Bachelor,2821,Semi-urban,25.5,Former,Never,1.4,6.7,Yes,Heart Disease,1,0,Moderate,Moderate,Mixed,0,1488.52,Comprehensive,10,3430,0.74,Medium
+64,Other,Single,Freelancer,Bachelor,35563,Semi-urban,26.3,Never,Occasional,-3.1,7.6,Yes,Diabetes,2,1,Moderate,Low,Mixed,0,5309.77,Family,6,3740,0.72,Medium
+75,Male,Single,Unemployed,HSC,4042,Urban,30.7,Never,Never,5.6,7,No,Asthma,3,0,High,Low,Home-cooked,1,3074.86,Comprehensive,5,3850,0.53,High
+26,Male,Divorced,Unemployed,HSC,501,Rural,22.2,Former,Never,-1.4,8.6,No,Asthma,2,0,Low,Moderate,Mixed,0,5328.45,Family,1,3360,0.48,Medium
+33,Other,Married,Construction Worker,Bachelor,24382,Urban,29.5,Never,Occasional,3,6.5,Yes,Asthma,1,1,Low,High,Home-cooked,0,5568.53,Family,6,3430,1,Medium
+38,Female,Married,Teacher,SSC,27658,Semi-urban,26.3,Never,Never,7.5,9.1,No,None,3,2,Moderate,High,Home-cooked,0,3726.89,Basic,6,3480,0.86,Low
+48,Male,Married,Farmer,SSC,12698,Semi-urban,29.9,Never,Regular,6.7,7.8,No,Hypertension,1,0,Moderate,High,Mixed,0,5638.08,Basic,5,3580,0.93,Medium
+44,Female,Single,Teacher,Master,30958,Urban,33.3,Former,Regular,5.5,7.6,Yes,Asthma,1,2,Low,High,Home-cooked,1,15846.99,Comprehensive,4,3540,0.9,High
+20,Other,Married,Doctor,Bachelor,49546,Urban,27.3,Current,Never,1.5,7.2,No,None,3,2,High,Moderate,Mixed,0,20654.3,Comprehensive,9,3800,0.64,Medium
+67,Male,Single,Freelancer,PhD,30171,Urban,25.5,Never,Never,1.5,6.4,No,None,3,0,High,High,Mostly Restaurant,0,776.65,Comprehensive,9,3770,0.8,Low
+75,Male,Single,Private Job,Bachelor,64565,Rural,24.8,Never,Occasional,5.4,6.3,Yes,None,1,0,Moderate,Moderate,Mixed,0,1231.44,Family,7,3850,0.65,Low
+64,Other,Married,Farmer,Bachelor,12766,Rural,29.5,Never,Occasional,5.4,4.9,No,Diabetes,1,2,Moderate,Low,Home-cooked,1,2879.18,Comprehensive,3,3740,0.86,Medium
+22,Male,Single,Doctor,PhD,57513,Semi-urban,23.5,Never,Never,2.9,7.1,No,Hypertension,2,1,Moderate,Low,Mixed,0,4927.58,Basic,9,3320,0.65,Low
+66,Other,Married,Construction Worker,Bachelor,19485,Semi-urban,24.5,Never,Occasional,1.9,6.3,No,Diabetes,2,3,High,Moderate,Mostly Restaurant,0,6627.88,Critical Illness,3,3760,0.55,Medium
+47,Female,Widowed,Student,None,4161,Urban,26.4,Former,Occasional,-2.3,7.3,No,Hypertension,1,0,High,High,Mixed,0,5363.98,Family,2,3570,0.76,Medium
+75,Other,Married,Construction Worker,Master,10767,Rural,15.5,Never,Never,4.4,6.6,Yes,Hypertension,2,3,High,High,Home-cooked,1,4927.81,Basic,4,3850,0.63,Medium
+63,Female,Married,Doctor,SSC,42013,Rural,31.2,Never,Never,2,6.6,Yes,Diabetes,2,1,Low,Moderate,Home-cooked,0,6587.93,Critical Illness,7,3730,0.64,Medium
+24,Other,Married,Private Job,Bachelor,66724,Semi-urban,16.3,Never,Occasional,1.9,7.1,No,None,2,1,Low,Low,Home-cooked,1,3326.55,Comprehensive,6,3340,0.87,Low
+19,Female,Married,Farmer,SSC,19479,Urban,28,Never,Never,5.9,7.5,No,Heart Disease,3,2,Low,High,Home-cooked,1,1002.21,Critical Illness,7,3290,0.6,Low
+26,Other,Single,Freelancer,HSC,18417,Rural,22.4,Former,Occasional,2.8,5.9,Yes,Heart Disease,3,2,Low,High,Home-cooked,0,18030.82,Basic,2,3360,0.89,Medium
+29,Other,Single,Freelancer,Bachelor,41663,Semi-urban,26,Never,Never,5,6.2,Yes,Heart Disease,0,1,Moderate,High,Home-cooked,0,31016.99,Critical Illness,3,3390,0.83,Medium
+43,Other,Married,Teacher,SSC,35985,Semi-urban,19.2,Never,Occasional,3.7,6.6,Yes,Hypertension,0,0,Moderate,High,Mostly Restaurant,1,2088.72,Family,3,3530,0.47,Medium
+83,Other,Married,Teacher,Bachelor,33733,Urban,24.6,Never,Never,0.6,9.3,Yes,Diabetes,0,1,Low,High,Home-cooked,0,70.57,Comprehensive,9,3930,0.9,Medium
+44,Male,Divorced,Farmer,HSC,10739,Semi-urban,23.6,Never,Never,-3.3,6.8,Yes,None,3,1,Low,High,Home-cooked,1,855.15,Family,3,3540,0.6,Low
+52,Male,Married,Teacher,HSC,17017,Semi-urban,8.5,Never,Occasional,3.3,5.7,Yes,Heart Disease,2,1,Moderate,Moderate,Home-cooked,1,475.52,Comprehensive,8,3620,0.78,Medium
+64,Female,Single,Construction Worker,SSC,23809,Urban,27.3,Former,Never,0.5,7.7,Yes,Heart Disease,1,2,Moderate,High,Mixed,0,876.89,Family,2,3740,0.51,Medium
+46,Female,Widowed,Student,Bachelor,5734,Semi-urban,17.1,Never,Never,0.3,10.2,No,None,3,0,Moderate,Low,Home-cooked,0,4432.47,Family,6,3560,0.87,Low
+34,Other,Single,Farmer,Master,18785,Rural,22.7,Never,Never,2.2,6.3,No,Hypertension,1,0,Low,Moderate,Home-cooked,0,1951.49,Basic,10,3440,0.75,Low
+33,Other,Married,Teacher,HSC,25237,Urban,19.7,Never,Occasional,1.4,8.9,No,Heart Disease,2,1,Low,Moderate,Home-cooked,0,4147.55,Basic,6,3430,0.65,Low
+62,Male,Divorced,Freelancer,Bachelor,46021,Urban,17.5,Former,Occasional,2.4,5,Yes,None,1,0,Moderate,High,Mostly Restaurant,0,4376.66,Basic,9,3720,0.52,Low
+76,Female,Single,Construction Worker,Bachelor,13949,Semi-urban,22.1,Never,Never,3.3,6.6,No,Asthma,1,0,Moderate,Moderate,Home-cooked,0,7059.29,Comprehensive,2,3860,1,Medium
+43,Male,Married,Teacher,Master,18201,Rural,19.9,Never,Never,2.4,6.9,No,Diabetes,1,1,Moderate,High,Mixed,1,3885.01,Comprehensive,5,3530,0.78,Medium
+56,Other,Married,Construction Worker,Master,10294,Semi-urban,23.6,Never,Regular,7.2,7.3,No,Hypertension,0,1,Low,Moderate,Mixed,0,5242.59,Family,2,3660,0.76,Medium
+60,Female,Single,Teacher,HSC,16541,Semi-urban,24.3,Former,Occasional,6.6,5,Yes,None,1,0,Low,Low,Home-cooked,0,470.58,Comprehensive,2,3700,0.7,Low
+41,Male,Married,Unemployed,Master,757,Urban,27.2,Former,Never,2.1,5.3,No,Heart Disease,2,1,Low,Moderate,Home-cooked,0,2573,Family,8,3510,1,Medium
+25,Female,Married,Unemployed,Master,992,Urban,24.8,Former,Never,-0.5,6.1,No,Heart Disease,2,1,Moderate,Moderate,Home-cooked,0,970.59,Basic,6,3350,0.71,Medium
+21,Other,Married,Teacher,Bachelor,33385,Urban,18.9,Current,Never,-0.7,8.9,No,Heart Disease,1,1,Moderate,Moderate,Mixed,0,926.85,Comprehensive,10,3810,0.49,Medium
+42,Male,Married,Construction Worker,SSC,13110,Semi-urban,34.7,Never,Never,4.8,8,No,None,1,1,Moderate,Low,Home-cooked,2,19928.73,Family,8,3520,0.79,Low
+19,Other,Single,Unemployed,Bachelor,4278,Semi-urban,20.3,Former,Never,0.3,5.9,Yes,Diabetes,4,2,Low,Moderate,Home-cooked,1,770.34,Comprehensive,3,3290,0.79,Medium
+70,Other,Single,Doctor,HSC,58161,Urban,24.2,Current,Never,2.7,6.9,Yes,Heart Disease,1,0,High,Moderate,Mixed,0,9439.37,Comprehensive,1,4300,0.46,High
+64,Female,Single,Farmer,Bachelor,18683,Semi-urban,33.3,Current,Never,4.9,6.6,No,Hypertension,2,0,Moderate,Moderate,Home-cooked,0,15053.69,Comprehensive,3,4240,0.63,High
+28,Male,Single,Doctor,SSC,65496,Urban,15.8,Current,Never,3.1,5.4,No,Hypertension,1,0,Moderate,Low,Mostly Restaurant,0,5181.54,Comprehensive,6,3880,0.8,Medium
+69,Other,Married,Teacher,SSC,18718,Semi-urban,22.6,Current,Never,6,7.4,Yes,Asthma,2,3,Moderate,Moderate,Home-cooked,0,8067.3,Comprehensive,8,4290,0.69,High
+50,Male,Divorced,Unemployed,Master,3951,Urban,33,Never,Occasional,3.4,7.4,Yes,Asthma,0,0,Low,Moderate,Home-cooked,0,5858.67,Family,3,3600,0.72,Medium
+64,Female,Married,Farmer,HSC,17894,Urban,19.8,Former,Never,3.3,8.8,Yes,None,3,0,Low,Moderate,Mixed,0,9722.81,Basic,1,3740,0.6,Low
+81,Female,Single,Farmer,Bachelor,9231,Urban,23.7,Current,Never,2.3,8.1,No,None,1,0,Low,Moderate,Mixed,0,1862.62,Comprehensive,9,4410,0.53,Medium
+35,Other,Married,Freelancer,Bachelor,38074,Urban,21.8,Current,Never,-0.3,5.3,No,Hypertension,6,1,High,Moderate,Mixed,0,3770.15,Comprehensive,6,3950,0.88,Medium
+81,Other,Divorced,Teacher,SSC,17835,Urban,20.3,Never,Never,2.9,8.3,Yes,Hypertension,3,0,Low,Moderate,Mixed,1,209.75,Family,2,3910,0.74,Medium
+61,Female,Divorced,Farmer,SSC,11985,Urban,17.4,Never,Occasional,1.4,6.1,No,Asthma,4,2,Moderate,Moderate,Mixed,1,2602.8,Comprehensive,6,3710,0.4,Medium
+33,Male,Married,Unemployed,None,1772,Rural,19,Current,Never,4.6,4.9,Yes,Diabetes,2,2,Moderate,Moderate,Mixed,2,5370.57,Comprehensive,4,3930,0.28,High
+74,Other,Single,Construction Worker,Bachelor,16121,Rural,24.2,Never,Never,5.9,7.4,No,Heart Disease,2,0,Moderate,Moderate,Home-cooked,0,7864.08,Basic,7,3840,0.61,Medium
+54,Other,Single,Teacher,Bachelor,30764,Semi-urban,22.3,Never,Never,1.5,6.5,No,Heart Disease,0,3,Low,High,Home-cooked,0,3659.67,Comprehensive,9,3640,0.92,Medium
+42,Male,Single,Farmer,Bachelor,12234,Semi-urban,36.8,Never,Never,4.3,5.2,Yes,None,0,2,High,High,Mixed,0,1015.56,Comprehensive,7,3520,0.98,Medium
+22,Other,Married,Farmer,Bachelor,12086,Semi-urban,26.3,Former,Regular,3.5,5.3,No,Asthma,4,1,High,High,Home-cooked,0,251.99,Basic,10,3320,0.42,Medium
+44,Female,Married,Construction Worker,Bachelor,18002,Urban,23.4,Never,Regular,4.8,7.5,Yes,Heart Disease,1,1,Low,Low,Mixed,2,1086.8,Family,10,3540,0.72,Medium
+54,Male,Married,Doctor,Bachelor,83397,Urban,17.3,Current,Never,2.3,6.9,Yes,Asthma,4,0,Moderate,Moderate,Home-cooked,0,6799.13,Basic,7,4140,0.32,High
+28,Male,Single,Construction Worker,Master,15920,Urban,16.8,Former,Never,4.3,9,Yes,Asthma,2,0,Moderate,High,Home-cooked,0,1526.38,Basic,10,3380,0.52,Medium
+55,Female,Single,Freelancer,Bachelor,30369,Rural,33.4,Current,Occasional,-0.1,4.7,No,Hypertension,0,2,High,High,Home-cooked,1,7947.32,Basic,5,4150,0.71,High
+29,Other,Single,Farmer,Bachelor,13389,Semi-urban,33.7,Never,Never,5.6,8.1,Yes,Asthma,0,0,High,Moderate,Home-cooked,2,3638.76,Comprehensive,1,3390,0.71,High
+75,Male,Married,Farmer,Bachelor,14121,Urban,19,Former,Never,1,9.2,No,Hypertension,2,0,Low,High,Home-cooked,0,19.61,Basic,9,3850,0.67,Medium
+39,Female,Single,Freelancer,HSC,48452,Urban,23.9,Never,Never,-1.3,4.3,Yes,Diabetes,0,0,Moderate,High,Home-cooked,0,6109.94,Family,7,3490,0.64,Medium
+33,Male,Single,Doctor,Bachelor,88676,Urban,22.7,Never,Never,1.7,6.2,No,Asthma,2,0,Low,Moderate,Home-cooked,0,14391.89,Basic,2,3430,0.97,Low
+83,Other,Single,Construction Worker,Master,11224,Urban,16,Former,Never,1.6,3.8,No,Heart Disease,0,0,Low,Moderate,Mostly Restaurant,0,9065.84,Basic,7,3930,0.81,Medium
+51,Male,Married,Freelancer,Master,29131,Rural,26.2,Never,Never,2.4,5.4,Yes,Heart Disease,2,1,Low,Moderate,Home-cooked,1,22678.2,Family,10,3610,0.63,Medium
+56,Male,Single,Private Job,HSC,43616,Rural,14,Current,Occasional,5.9,5.3,No,Asthma,0,1,Moderate,Moderate,Mixed,0,31586.12,Basic,1,4160,0.63,Medium
+30,Male,Single,Freelancer,HSC,44938,Urban,17.6,Never,Occasional,3.5,8.1,No,Asthma,1,2,Moderate,High,Mixed,2,7353.36,Comprehensive,6,3400,0.81,Medium
+19,Female,Married,Doctor,Master,73351,Urban,22,Never,Never,0.9,4.9,Yes,Hypertension,3,0,Low,Low,Home-cooked,1,2691.71,Family,4,3290,0.78,Medium
+78,Other,Single,Farmer,Bachelor,17574,Rural,29.5,Never,Occasional,0,7.2,Yes,Asthma,1,2,Low,Moderate,Home-cooked,0,1807.46,Comprehensive,9,3880,0.65,Medium
+83,Male,Married,Doctor,Primary,72328,Semi-urban,17.8,Current,Never,0.6,6.2,No,Asthma,1,1,High,Moderate,Home-cooked,0,390.47,Comprehensive,4,4430,0.34,High
+27,Other,Married,Unemployed,Bachelor,449,Semi-urban,28.6,Never,Never,2.8,6.2,No,Heart Disease,3,0,Moderate,Moderate,Home-cooked,0,1304.98,Basic,3,3370,0.83,Medium
+25,Female,Single,Private Job,None,60958,Semi-urban,11,Former,Never,1.9,5.5,No,Asthma,1,2,Moderate,Moderate,Home-cooked,1,1180.36,Family,4,3350,0.51,Low
+28,Female,Single,Farmer,Master,14553,Semi-urban,23.2,Former,Never,1.3,3.5,Yes,Asthma,2,3,High,Moderate,Home-cooked,0,7204.7,Family,2,3380,0.65,Medium
+60,Other,Single,Farmer,HSC,15631,Urban,24.8,Former,Never,-1.7,9.1,No,Heart Disease,3,0,Moderate,Moderate,Home-cooked,0,5144.89,Basic,9,3700,0.56,Medium
+61,Male,Single,Private Job,SSC,32213,Urban,27.7,Never,Occasional,3.1,6.9,No,Hypertension,1,1,Low,Low,Mostly Restaurant,0,14678.16,Basic,1,3710,0.76,Medium
+39,Male,Single,Doctor,Bachelor,85365,Semi-urban,21.9,Never,Never,3.2,7.2,No,Hypertension,2,1,Low,Moderate,Mixed,0,1167.43,Critical Illness,3,3490,0.62,Low
+58,Female,Married,Student,HSC,7286,Rural,22.8,Current,Never,3.7,5.2,No,Diabetes,3,2,Moderate,Low,Mixed,0,8271.99,Basic,4,4180,0.92,Medium
+37,Female,Married,Teacher,PhD,37891,Semi-urban,32.2,Never,Regular,0.6,8.7,Yes,Diabetes,0,0,Low,High,Home-cooked,0,10529.03,Comprehensive,5,3470,0.55,Medium
+36,Male,Married,Private Job,Master,67537,Urban,13.4,Former,Occasional,5.5,6,Yes,Heart Disease,1,1,Moderate,Moderate,Home-cooked,0,2455.92,Basic,2,3460,0.69,Medium
+44,Other,Single,Teacher,HSC,17402,Urban,23.1,Never,Occasional,3.1,5.6,Yes,Asthma,2,1,Moderate,Low,Home-cooked,0,193.58,Family,9,3540,0.4,Medium
+69,Female,Married,Doctor,HSC,95872,Urban,17.6,Never,Never,4.8,5.6,No,Diabetes,4,0,Low,Moderate,Mixed,0,5830.2,Family,5,3790,0.5,Medium
+69,Male,Married,Freelancer,PhD,39545,Semi-urban,24.5,Former,Occasional,0.9,6.2,No,Hypertension,1,0,Low,Moderate,Mixed,0,14513.25,Basic,7,3790,0.89,Medium
+47,Male,Married,Unemployed,Bachelor,1800,Semi-urban,19.9,Never,Never,3.7,5.4,No,Heart Disease,3,1,Moderate,Moderate,Mixed,1,16399.15,Critical Illness,6,3570,0.87,Medium
+81,Other,Single,Doctor,HSC,97450,Rural,24,Never,Never,5.2,9.6,No,Hypertension,1,1,High,Moderate,Home-cooked,2,8244.51,Comprehensive,10,3910,0.47,Medium
+41,Female,Married,Farmer,SSC,17116,Semi-urban,27.5,Former,Never,4.4,3.9,No,Heart Disease,3,1,Moderate,Moderate,Home-cooked,1,702.52,Comprehensive,3,3510,0.97,Medium
+32,Male,Married,Doctor,SSC,88466,Urban,23.6,Never,Never,-0.8,8.8,Yes,None,4,2,Moderate,Moderate,Home-cooked,0,533.27,Comprehensive,7,3420,0.63,Low
+64,Other,Single,Freelancer,HSC,15499,Semi-urban,23.2,Never,Regular,2.9,5.6,No,Diabetes,2,2,Moderate,Moderate,Home-cooked,0,8558.12,Family,7,3740,0.69,Medium
+41,Female,Married,Student,Master,3690,Urban,20.8,Never,Never,-0.8,4.5,No,Diabetes,5,1,High,High,Home-cooked,0,6829.82,Family,5,3510,1,Medium
+64,Other,Single,Construction Worker,Bachelor,18831,Urban,23.7,Former,Never,2.2,5.9,No,Diabetes,0,2,Moderate,Moderate,Mixed,0,757.02,Family,1,3740,0.84,Medium
+58,Female,Divorced,Doctor,Master,45167,Semi-urban,20.4,Never,Occasional,3.2,8.1,No,Heart Disease,5,0,High,Moderate,Mostly Restaurant,0,5542.86,Family,4,3680,1,Medium
+67,Female,Married,Farmer,Master,9193,Urban,19.1,Never,Never,0.2,6.7,No,None,2,1,High,Moderate,Mostly Restaurant,1,1077.05,Comprehensive,10,3770,0.64,Medium
+78,Female,Single,Student,PhD,6793,Semi-urban,13.1,Never,Regular,3.5,7.8,No,Diabetes,4,1,Low,Moderate,Mixed,0,3181.8,Basic,3,3880,0.45,Medium
+44,Other,Married,Doctor,SSC,96866,Urban,19.2,Never,Never,4.1,8,Yes,Hypertension,1,1,Low,Moderate,Home-cooked,0,6577.87,Comprehensive,5,3540,0.91,Medium
+78,Male,Married,Freelancer,Master,43793,Urban,25.1,Current,Occasional,1.3,2.8,Yes,None,1,1,Moderate,Low,Mixed,1,5814.74,Basic,1,4380,0.84,Medium
+28,Male,Divorced,Freelancer,HSC,46860,Rural,32.2,Never,Occasional,3.8,6.1,Yes,None,0,1,High,Moderate,Mixed,1,3165.34,Basic,5,3380,0.74,Medium
+76,Other,Single,Doctor,HSC,85881,Semi-urban,27.6,Never,Occasional,1.9,10.9,No,Asthma,1,0,Moderate,Moderate,Home-cooked,1,5857.13,Comprehensive,10,3860,0.5,Medium
+45,Female,Single,Freelancer,SSC,25120,Semi-urban,30.2,Never,Never,5.5,6,Yes,Asthma,1,0,Moderate,High,Home-cooked,1,1290.84,Basic,1,3550,0.34,Medium
+78,Other,Single,Farmer,Bachelor,14129,Urban,30.4,Former,Occasional,1,4.1,Yes,Hypertension,1,1,Low,High,Home-cooked,0,4631.77,Critical Illness,9,3880,0.78,Medium
+46,Male,Single,Farmer,HSC,19765,Urban,12.7,Never,Never,2.3,6.2,Yes,Heart Disease,2,2,Low,Moderate,Mixed,1,10231.86,Family,9,3560,0.84,Medium
+63,Other,Single,Student,Master,2864,Urban,22,Former,Never,3.4,5,Yes,Diabetes,7,0,Moderate,Moderate,Mixed,0,4626.48,Basic,1,3730,0.87,Medium
+69,Female,Single,Teacher,HSC,15929,Urban,23.4,Never,Occasional,4.2,8,Yes,Hypertension,3,0,Moderate,High,Home-cooked,1,1679.07,Comprehensive,1,3790,0.38,Medium
+20,Male,Married,Student,HSC,6091,Rural,27.4,Never,Never,4.8,7.6,Yes,Heart Disease,1,1,Low,Moderate,Home-cooked,0,3045.49,Comprehensive,5,3300,0.6,Medium
+56,Male,Single,Private Job,Bachelor,31236,Rural,21.8,Never,Never,5.9,4.1,No,Asthma,2,1,Low,Moderate,Mostly Restaurant,1,1473.42,Basic,9,3660,0.65,Medium
+44,Female,Married,Teacher,SSC,35483,Semi-urban,25.7,Never,Regular,1.8,8,Yes,Diabetes,1,1,Low,Moderate,Home-cooked,0,3907.71,Basic,1,3540,0.7,Medium
+27,Male,Single,Freelancer,HSC,16618,Urban,30.9,Current,Regular,4.5,8.6,No,Diabetes,3,0,Moderate,High,Mixed,1,2938.1,Family,9,3870,0.53,High
+72,Male,Divorced,Private Job,HSC,35185,Urban,28.7,Never,Never,0.6,7,No,None,3,1,High,Moderate,Mixed,0,1878.43,Basic,9,3820,0.45,Low
+49,Male,Married,Farmer,PhD,15743,Rural,20.8,Never,Never,3.5,5.2,Yes,Hypertension,2,1,Moderate,Moderate,Home-cooked,0,209.07,Basic,8,3590,0.96,Medium
+63,Other,Married,Doctor,HSC,74445,Rural,14.2,Former,Occasional,1.8,4,Yes,Heart Disease,1,1,Low,Moderate,Mixed,0,4480.09,Basic,8,3730,0.62,Medium
+67,Male,Married,Freelancer,Master,28055,Urban,23.5,Never,Never,2.8,5.4,No,Hypertension,4,1,Moderate,Low,Home-cooked,2,7238.27,Family,8,3770,0.8,Medium
+60,Other,Married,Construction Worker,Bachelor,13593,Urban,31.3,Never,Never,7.2,6.5,No,Hypertension,1,2,Moderate,Moderate,Mixed,1,10705.32,Basic,1,3700,1,Medium
+58,Female,Married,Doctor,SSC,57772,Urban,17.3,Never,Regular,5.7,8.8,No,Asthma,2,0,Low,Moderate,Home-cooked,0,2964.46,Basic,5,3680,0.76,Medium
+40,Male,Divorced,Unemployed,Master,1329,Urban,26,Never,Never,3.5,7.6,Yes,Asthma,2,0,Moderate,Low,Mixed,1,5023.56,Basic,5,3500,0.68,Medium
+76,Female,Single,Student,Bachelor,8546,Urban,19.3,Current,Never,-1.2,8.5,Yes,None,5,1,Moderate,High,Home-cooked,0,4303.94,Basic,9,4360,0.65,Medium
+34,Other,Widowed,Construction Worker,HSC,24834,Urban,29.7,Never,Occasional,2.8,7.2,No,Hypertension,2,1,Moderate,Moderate,Home-cooked,1,1700.46,Comprehensive,8,3440,0.66,Medium
+24,Male,Married,Unemployed,SSC,1404,Semi-urban,24.6,Never,Never,4,5,Yes,Asthma,2,1,Moderate,Moderate,Home-cooked,0,23395.46,Comprehensive,2,3340,0.81,Medium
+61,Other,Divorced,Unemployed,SSC,4320,Urban,24.5,Former,Occasional,-0.1,6.7,Yes,Diabetes,1,1,Low,High,Mixed,0,9715.12,Basic,3,3710,0.87,Medium
+28,Other,Single,Doctor,HSC,84152,Urban,25.7,Former,Regular,2.5,6.3,Yes,Hypertension,4,1,High,Low,Mixed,0,8594.47,Comprehensive,3,3380,0.46,Medium
+71,Female,Married,Unemployed,HSC,3131,Urban,18.4,Current,Regular,3.1,3.6,Yes,None,3,0,Moderate,Low,Home-cooked,0,2573.12,Comprehensive,10,4310,0.99,High
+35,Male,Married,Unemployed,HSC,2415,Semi-urban,21.3,Never,Never,0.3,8.8,Yes,None,0,1,Moderate,Moderate,Home-cooked,0,6581.48,Comprehensive,2,3450,0.6,Low
+79,Other,Married,Construction Worker,Primary,22450,Urban,16.6,Former,Never,-0.5,3.9,Yes,None,3,0,High,Moderate,Mostly Restaurant,0,8332.35,Basic,8,3890,0.52,Medium
+55,Female,Widowed,Doctor,Bachelor,74318,Semi-urban,32.8,Former,Never,0.9,5.2,Yes,Asthma,0,1,Moderate,Moderate,Home-cooked,2,924.63,Family,4,3650,0.81,Medium
+23,Female,Single,Farmer,Master,17157,Semi-urban,24.4,Current,Never,1.8,4.8,No,Hypertension,1,4,Low,High,Home-cooked,0,411.37,Comprehensive,8,3830,0.82,Medium
+55,Male,Married,Student,SSC,2642,Semi-urban,26.4,Former,Regular,5.9,7.5,No,None,1,0,High,High,Home-cooked,0,182.76,Comprehensive,7,3650,0.73,Medium
+66,Female,Single,Freelancer,Master,44229,Semi-urban,18.8,Never,Occasional,4.4,8.7,No,Asthma,5,0,High,High,Home-cooked,0,621.04,Basic,2,3760,0.64,Medium
+20,Male,Single,Student,HSC,5407,Semi-urban,14.3,Former,Never,5,5.3,No,Asthma,1,2,Low,Moderate,Mixed,0,5651.66,Basic,7,3300,0.87,Low
+83,Other,Single,Private Job,HSC,31284,Urban,28.8,Never,Never,-0.5,9,Yes,Diabetes,1,2,Moderate,Moderate,Mixed,1,7896.86,Comprehensive,9,3930,0.64,Medium
+80,Male,Married,Construction Worker,HSC,10081,Urban,19.4,Former,Regular,2.8,6.3,Yes,Hypertension,4,0,Moderate,Moderate,Mixed,0,4012.9,Comprehensive,7,3900,0.67,Medium
+69,Female,Married,Farmer,Master,11514,Urban,21.4,Never,Never,4.1,5.7,No,None,1,0,Moderate,Moderate,Mixed,0,4050.2,Family,10,3790,0.63,Low
+32,Female,Single,Doctor,HSC,88824,Urban,26,Current,Occasional,3.3,9.6,Yes,None,3,0,Moderate,Low,Home-cooked,0,4394.45,Family,10,3920,0.42,Medium
+31,Female,Married,Freelancer,Bachelor,32409,Urban,31.4,Never,Occasional,5,6.9,No,Asthma,0,1,High,Moderate,Home-cooked,1,8766.75,Basic,6,3410,0.62,Medium
+42,Female,Married,Construction Worker,Master,21636,Urban,22.2,Never,Never,4,7.3,Yes,Hypertension,3,2,Low,Moderate,Mixed,0,640.71,Basic,10,3520,0.97,Medium
+78,Female,Single,Teacher,Master,39841,Rural,25.1,Former,Never,-0.3,7.4,Yes,Asthma,2,1,Low,High,Home-cooked,0,3278.69,Basic,7,3880,0.53,Medium
+71,Male,Married,Teacher,HSC,26102,Rural,20.9,Never,Occasional,1.6,7.5,No,Diabetes,2,0,Moderate,Moderate,Mixed,1,9.07,Basic,5,3810,0.75,Medium
+27,Male,Single,Freelancer,Master,24457,Semi-urban,22.5,Never,Never,2.1,8.4,Yes,Diabetes,4,1,High,Moderate,Home-cooked,0,7371,Comprehensive,1,3370,0.56,Medium
+81,Other,Single,Doctor,Master,99608,Rural,13.6,Never,Never,5,10.8,No,None,1,2,High,Moderate,Home-cooked,0,11403.91,Basic,1,3910,0.76,Low
+42,Other,Single,Farmer,Primary,16581,Urban,31,Never,Never,2.5,5.2,No,None,4,2,Low,Moderate,Home-cooked,0,2024.45,Family,5,3520,0.74,Low
+20,Other,Single,Unemployed,Bachelor,3483,Urban,19.5,Current,Occasional,4.3,5.9,Yes,Asthma,1,2,Low,Moderate,Mixed,0,4539.85,Comprehensive,4,3800,0.54,Medium
+65,Male,Single,Private Job,Master,47981,Urban,25.6,Former,Occasional,4.6,7,No,Asthma,1,0,Moderate,Low,Home-cooked,1,7969.01,Comprehensive,10,3750,0.49,Medium
+59,Male,Single,Freelancer,Bachelor,21825,Urban,26.9,Never,Occasional,1.7,7.1,Yes,Heart Disease,1,2,Moderate,Low,Home-cooked,1,205.83,Comprehensive,6,3690,0.92,Medium
+55,Other,Married,Construction Worker,Bachelor,10414,Rural,16.2,Never,Never,6.1,7.6,No,Asthma,3,1,Moderate,Moderate,Mixed,0,336.05,Basic,3,3650,0.62,Medium
+70,Other,Single,Unemployed,SSC,2030,Semi-urban,22.6,Never,Never,0.5,6.8,No,Hypertension,1,0,Low,Moderate,Home-cooked,0,4681.95,Comprehensive,10,3800,0.49,Medium
+65,Other,Married,Farmer,HSC,8416,Semi-urban,27.1,Never,Never,3.8,6.3,Yes,None,5,2,High,Moderate,Home-cooked,2,52,Basic,5,3750,0.52,Medium
+21,Male,Married,Private Job,HSC,57211,Semi-urban,31.3,Never,Occasional,1.8,3.7,No,Heart Disease,1,1,Moderate,High,Home-cooked,0,935.73,Critical Illness,3,3310,0.97,Medium
+29,Female,Married,Freelancer,PhD,20411,Semi-urban,14.7,Former,Never,5,7.8,Yes,Heart Disease,1,2,Low,High,Mostly Restaurant,2,343.93,Basic,6,3390,0.58,Medium
+76,Other,Married,Freelancer,SSC,27110,Urban,22.3,Never,Never,4.4,7.3,No,Heart Disease,2,2,Moderate,Moderate,Home-cooked,0,5986.17,Basic,1,3860,0.56,Medium
+71,Male,Married,Construction Worker,Bachelor,21672,Rural,30.1,Never,Never,1.2,5.7,No,Hypertension,1,1,Low,Low,Home-cooked,0,1514.51,Family,8,3810,0.74,Medium
+65,Female,Married,Doctor,SSC,69263,Semi-urban,27.3,Never,Never,2.8,7.1,No,None,2,2,Low,Moderate,Home-cooked,2,2870.4,Comprehensive,3,3750,0.51,Low
+23,Female,Single,Farmer,Bachelor,15980,Semi-urban,25.2,Current,Never,1.7,7.1,No,Asthma,0,0,High,Moderate,Home-cooked,3,479.71,Basic,5,3830,0.72,High
+53,Female,Married,Teacher,Bachelor,39124,Rural,21.4,Never,Occasional,1.1,3.9,No,Asthma,2,1,Moderate,Moderate,Mixed,0,12381.3,Basic,1,3630,0.56,Medium
+68,Other,Married,Teacher,Bachelor,19746,Semi-urban,15.4,Never,Occasional,2.8,5,No,None,3,1,Moderate,Moderate,Home-cooked,0,2485.23,Comprehensive,5,3780,0.61,Low
+42,Other,Single,Freelancer,Master,18484,Semi-urban,29.2,Never,Never,2.8,9.1,No,None,3,1,Low,Moderate,Home-cooked,0,502.92,Comprehensive,1,3520,0.87,Low
+38,Other,Widowed,Student,HSC,4318,Urban,28.1,Never,Occasional,0.6,7.2,No,Heart Disease,3,1,Low,Moderate,Mixed,0,15250.11,Basic,9,3480,0.68,Medium
+21,Male,Married,Doctor,Bachelor,78893,Urban,21.6,Never,Occasional,0.9,6.4,Yes,Asthma,3,2,Low,Moderate,Home-cooked,0,5554.65,Critical Illness,3,3310,0.66,Medium
+45,Male,Married,Doctor,Master,92483,Semi-urban,23.1,Never,Never,1.8,9,No,Hypertension,4,1,Low,High,Home-cooked,0,1997.21,Comprehensive,5,3550,0.7,Low
+18,Male,Single,Unemployed,HSC,3100,Urban,20.2,Former,Occasional,3.6,6.9,Yes,Asthma,5,1,Moderate,Moderate,Home-cooked,0,11249.86,Comprehensive,6,3280,0.93,Medium
+52,Female,Single,Unemployed,HSC,110,Urban,22.6,Never,Regular,5.5,5.1,Yes,None,2,0,Moderate,High,Home-cooked,1,1096.71,Critical Illness,3,3620,0.52,Medium
+75,Female,Single,Private Job,Master,21816,Urban,23.9,Never,Never,4.2,7.2,Yes,None,0,0,Moderate,Moderate,Mixed,0,3591.71,Critical Illness,7,3850,0.49,Low
+83,Female,Married,Student,Master,7698,Urban,21.6,Never,Never,3.9,4.1,No,Heart Disease,2,0,Low,Moderate,Home-cooked,0,2793.25,Basic,8,3930,0.91,Medium
+29,Male,Single,Construction Worker,Master,15193,Semi-urban,23.2,Former,Never,4.6,3.4,Yes,Asthma,6,0,Moderate,High,Home-cooked,1,6315.42,Critical Illness,5,3390,0.59,Medium
+36,Male,Married,Private Job,HSC,53276,Semi-urban,29.5,Never,Never,1.4,5.7,No,Asthma,3,0,Moderate,Moderate,Mixed,0,968.47,Basic,8,3460,0.44,Low
+81,Male,Single,Student,HSC,3811,Urban,20,Never,Regular,2,5.1,No,Hypertension,1,2,Moderate,Moderate,Mostly Restaurant,2,1096.59,Comprehensive,1,3910,0.55,High
+45,Male,Married,Teacher,SSC,28769,Semi-urban,25.4,Never,Occasional,7.1,7.4,No,Heart Disease,0,1,Low,Low,Home-cooked,0,1527.51,Basic,6,3550,0.82,Low
+29,Female,Single,Unemployed,SSC,1245,Semi-urban,19.4,Current,Occasional,2,4.1,No,Hypertension,0,0,Moderate,High,Home-cooked,0,602.86,Comprehensive,10,3890,0.27,Medium
+22,Female,Married,Farmer,Master,17471,Semi-urban,18.8,Former,Never,2.5,4.9,Yes,Asthma,2,2,High,High,Home-cooked,1,7302.09,Comprehensive,8,3320,0.7,Medium
+51,Female,Single,Private Job,HSC,41071,Semi-urban,21.5,Current,Never,2.5,5.3,No,Diabetes,1,1,High,High,Home-cooked,2,2695.22,Basic,6,4110,0.92,High
+70,Other,Single,Farmer,Bachelor,18604,Urban,37.3,Never,Never,3.2,8.2,No,Asthma,2,3,Low,Moderate,Mixed,0,12635.76,Basic,6,3800,0.75,Medium
+30,Male,Single,Construction Worker,Bachelor,24423,Urban,24.6,Never,Never,1.6,6.7,No,Diabetes,3,1,Low,Low,Mixed,0,5235.99,Basic,7,3400,1,Low
+35,Male,Single,Unemployed,Master,714,Rural,26,Never,Occasional,2.1,6.6,Yes,Diabetes,1,0,Low,Low,Mixed,0,2548.52,Comprehensive,4,3450,0.87,Medium
+51,Other,Single,Doctor,None,65143,Semi-urban,24.2,Current,Occasional,4.4,5.1,Yes,Asthma,1,0,Moderate,High,Home-cooked,0,10273.4,Family,8,4110,0.61,High
+29,Male,Married,Construction Worker,Primary,19473,Urban,22.8,Never,Occasional,3.5,6.6,No,Heart Disease,1,3,Low,Moderate,Home-cooked,1,4487.84,Basic,9,3390,0.77,Low
+40,Male,Married,Doctor,HSC,95786,Urban,29.2,Never,Never,6.2,5.5,No,None,2,1,Low,Moderate,Home-cooked,2,9973.14,Basic,6,3500,0.75,Low
+22,Other,Married,Doctor,None,78995,Urban,27.8,Never,Never,4.5,4.4,Yes,None,2,3,High,Moderate,Mixed,1,1033.77,Family,6,3320,0.76,Low
+66,Other,Single,Doctor,Bachelor,94030,Semi-urban,28.4,Never,Regular,5.7,8.3,Yes,None,3,1,Low,Moderate,Mostly Restaurant,2,1452.98,Comprehensive,3,3760,0.55,Medium
+81,Female,Single,Student,Bachelor,7628,Urban,21,Current,Regular,3.2,7.7,No,None,2,0,Moderate,Moderate,Mixed,0,7149.76,Basic,8,4410,0.79,Medium
+34,Male,Single,Doctor,Bachelor,85037,Rural,17.7,Never,Never,4.8,6.4,Yes,Diabetes,2,1,Moderate,Moderate,Home-cooked,1,2140.32,Basic,10,3440,0.92,Medium
+43,Female,Single,Student,Master,2757,Urban,26.4,Former,Never,4.4,5.8,Yes,Diabetes,2,1,High,High,Home-cooked,0,4235.22,Basic,4,3530,0.62,Medium
+43,Male,Married,Freelancer,HSC,37498,Urban,26.6,Never,Never,2.7,5,No,Hypertension,5,1,Low,Moderate,Home-cooked,1,9747.7,Comprehensive,1,3530,0.91,Medium
+46,Female,Single,Unemployed,SSC,2198,Urban,19.6,Never,Never,4.3,5.9,No,Heart Disease,2,0,Low,Low,Mixed,0,19538.77,Basic,3,3560,0.29,Medium
+38,Male,Single,Unemployed,HSC,2711,Urban,29.4,Never,Occasional,3.1,5.8,Yes,None,4,1,High,Moderate,Home-cooked,0,781.58,Basic,1,3480,0.65,Medium
+77,Female,Divorced,Unemployed,Master,2903,Urban,32.5,Never,Never,0.7,4.1,Yes,Asthma,4,2,Moderate,Moderate,Home-cooked,1,3829.89,Comprehensive,7,3870,0.77,High
+63,Other,Divorced,Student,HSC,4355,Urban,35.8,Current,Occasional,2.2,4.6,Yes,Asthma,4,1,Moderate,Moderate,Mixed,0,3920.5,Family,2,4230,0.62,High
+59,Female,Married,Teacher,Bachelor,34808,Urban,18.5,Former,Regular,1.5,5.1,Yes,Heart Disease,2,1,Low,Moderate,Home-cooked,0,2142.46,Comprehensive,5,3690,0.73,Medium
+24,Female,Single,Unemployed,Master,3492,Semi-urban,27.4,Never,Never,3.3,5.8,Yes,Asthma,1,2,Low,High,Mixed,0,20751.63,Family,4,3340,0.62,Medium
+80,Male,Divorced,Teacher,HSC,15521,Semi-urban,10.8,Never,Never,3.3,6.6,No,None,1,2,Moderate,High,Mixed,0,4046.91,Basic,1,3900,0.91,Low
+30,Female,Married,Student,Bachelor,4943,Rural,28.4,Never,Never,7.9,7.2,No,Heart Disease,3,1,Moderate,Low,Home-cooked,0,13150.88,Comprehensive,3,3400,0.64,Medium
+59,Other,Single,Construction Worker,SSC,18325,Urban,22.8,Never,Occasional,2.9,6.6,Yes,Hypertension,1,1,Low,High,Home-cooked,0,3821.99,Comprehensive,8,3690,0.95,Medium
+77,Male,Single,Freelancer,HSC,42668,Semi-urban,20.5,Current,Never,5.5,7.7,No,Asthma,2,2,Moderate,High,Mostly Restaurant,1,1239.87,Family,8,4370,0.55,Medium
+24,Male,Single,Unemployed,SSC,3319,Urban,27.2,Never,Regular,2.8,5.8,Yes,Diabetes,4,0,Low,Low,Home-cooked,0,3979.69,Basic,2,3340,0.75,Medium
+50,Male,Married,Student,HSC,5348,Rural,23.8,Never,Never,-0.5,6.5,No,Asthma,1,0,Moderate,Moderate,Home-cooked,1,2164.36,Basic,5,3600,0.94,Medium
+55,Male,Married,Freelancer,HSC,18884,Urban,30.6,Former,Never,4.7,7,No,Asthma,2,2,Low,Low,Mixed,0,8295.09,Basic,1,3650,0.65,Medium
+60,Female,Single,Freelancer,PhD,18031,Semi-urban,22,Never,Never,-0.8,7.2,No,Hypertension,2,4,Moderate,Low,Home-cooked,0,2136.54,Basic,7,3700,1,Medium
+18,Male,Married,Doctor,SSC,82548,Urban,26.2,Current,Never,4.7,8.4,No,Heart Disease,1,0,Low,Moderate,Mixed,0,3789.29,Comprehensive,5,3780,0.72,Medium
+49,Female,Single,Unemployed,Bachelor,1998,Urban,33.7,Never,Regular,4.6,5.7,No,Asthma,4,2,Moderate,High,Mostly Restaurant,1,7224.79,Basic,6,3590,0.73,Medium
+21,Other,Married,Freelancer,Bachelor,20139,Urban,22.4,Current,Regular,0.7,6.8,Yes,None,1,0,Moderate,High,Home-cooked,1,584.88,Basic,3,3810,0.39,Medium
+19,Female,Divorced,Doctor,Bachelor,65957,Urban,27.9,Never,Occasional,2,8.4,Yes,Asthma,2,0,Low,Moderate,Mixed,0,1757.36,Basic,5,3290,0.65,Medium
+65,Other,Single,Private Job,SSC,59023,Urban,24.2,Current,Occasional,2.7,4.9,Yes,None,1,1,Low,Moderate,Mixed,0,2192.49,Comprehensive,10,4250,0.74,Medium
+42,Male,Divorced,Freelancer,HSC,38190,Semi-urban,30.8,Never,Never,2.9,6.5,Yes,Heart Disease,2,1,Low,Moderate,Home-cooked,4,560,Comprehensive,3,3520,0.88,High
+41,Male,Married,Unemployed,Bachelor,3536,Urban,24.1,Never,Never,-1.6,6.3,No,Asthma,1,1,Low,Moderate,Home-cooked,0,15620.07,Basic,5,3510,0.63,Medium
+57,Female,Widowed,Freelancer,Primary,30491,Rural,24.5,Former,Never,2,5.9,No,Heart Disease,2,1,Moderate,Moderate,Mixed,0,1466.34,Family,7,3670,0.54,Medium
+81,Male,Single,Farmer,HSC,11275,Urban,21.7,Current,Never,0.9,5.8,No,Asthma,1,2,Moderate,Moderate,Home-cooked,0,358.72,Basic,4,4410,0.59,Medium
+61,Female,Single,Unemployed,SSC,4939,Semi-urban,25.5,Never,Never,1.9,4.6,Yes,Diabetes,3,2,Low,Moderate,Mostly Restaurant,1,1430.53,Basic,10,3710,0.48,Medium
+50,Other,Single,Unemployed,Bachelor,896,Rural,21.9,Former,Never,2,4.9,Yes,Heart Disease,1,0,Moderate,Moderate,Mixed,0,15278.51,Basic,6,3600,0.97,Medium
+84,Male,Single,Unemployed,Master,1623,Urban,15.3,Never,Never,0.8,6.6,No,Heart Disease,0,1,Low,Moderate,Mixed,0,2354.01,Basic,10,3940,0.99,Medium
+38,Male,Married,Doctor,Bachelor,52906,Semi-urban,23.7,Never,Never,-0.1,8.1,No,Heart Disease,0,0,Low,Moderate,Home-cooked,0,9801.68,Comprehensive,8,3480,0.61,Low
+45,Female,Married,Student,SSC,5446,Urban,24.6,Former,Never,3.5,6.1,Yes,Diabetes,0,1,Low,Moderate,Mixed,0,2004.58,Family,6,3550,0.43,Medium
+62,Other,Married,Teacher,HSC,31447,Rural,30.3,Never,Never,3.9,5.6,Yes,Asthma,1,1,Low,Moderate,Home-cooked,0,8948.27,Comprehensive,7,3720,0.81,Medium
+70,Other,Married,Freelancer,SSC,49028,Urban,20.7,Former,Never,-0.1,6,Yes,Hypertension,1,0,Moderate,Moderate,Home-cooked,0,4324.62,Critical Illness,6,3800,0.88,Medium
+43,Female,Married,Teacher,SSC,23212,Semi-urban,22.2,Former,Never,3.4,6.4,Yes,Diabetes,1,0,Moderate,Moderate,Home-cooked,0,579.3,Basic,3,3530,0.81,Medium
+30,Female,Single,Private Job,Bachelor,50105,Semi-urban,30.9,Former,Regular,3.3,5.5,Yes,None,3,0,High,Low,Home-cooked,0,2172.66,Basic,2,3400,0.83,Medium
+26,Other,Divorced,Freelancer,HSC,32705,Rural,20.1,Former,Occasional,1.9,7.9,Yes,Diabetes,3,2,High,High,Home-cooked,0,671.44,Family,3,3360,0.85,Medium
+80,Female,Single,Student,PhD,2747,Urban,30.9,Never,Never,1.9,4.5,No,Heart Disease,3,3,Moderate,Low,Mixed,1,7561.02,Basic,3,3900,0.24,Medium
+79,Female,Widowed,Farmer,SSC,15226,Urban,22.8,Never,Regular,3.7,8.4,Yes,Asthma,3,0,Low,Low,Mixed,0,7895.41,Family,2,3890,0.83,Medium
+57,Other,Married,Teacher,HSC,32510,Urban,24.3,Never,Occasional,4.4,6.2,No,Asthma,1,0,Low,Moderate,Mostly Restaurant,0,3642.85,Comprehensive,2,3670,0.73,Medium
+49,Male,Divorced,Unemployed,Master,1284,Urban,22.1,Never,Occasional,1.9,3.7,Yes,Asthma,1,0,Moderate,Moderate,Home-cooked,0,79.31,Basic,9,3590,0.63,Medium
+53,Female,Married,Teacher,Bachelor,30501,Rural,15.1,Never,Never,3,8.5,Yes,Heart Disease,6,0,Low,High,Home-cooked,0,1432.91,Basic,1,3630,0.88,Medium
+22,Female,Married,Private Job,Bachelor,69901,Semi-urban,19.7,Never,Occasional,2.4,8.3,No,Heart Disease,3,1,Moderate,Moderate,Home-cooked,0,11715.99,Comprehensive,10,3320,0.63,Low
+29,Female,Single,Unemployed,SSC,1662,Urban,22.4,Never,Occasional,0.8,7.9,Yes,Diabetes,4,0,Low,Low,Home-cooked,0,7314.75,Comprehensive,10,3390,0.29,Medium
+35,Male,Single,Freelancer,SSC,15580,Semi-urban,30.3,Never,Never,3.6,7.3,No,Asthma,2,0,Low,Moderate,Home-cooked,0,4020.43,Basic,8,3450,0.71,Medium
+35,Female,Married,Student,Master,6506,Urban,28.7,Never,Regular,4,5,No,Asthma,4,0,Low,Moderate,Home-cooked,0,1988.58,Basic,1,3450,0.63,Medium
+55,Other,Married,Private Job,Master,49665,Urban,15.6,Never,Never,2,6.9,No,Asthma,2,3,Moderate,Moderate,Home-cooked,1,1290.28,Comprehensive,7,3650,0.9,Medium
+77,Other,Married,Unemployed,Bachelor,239,Urban,18.8,Never,Never,4.2,4.9,No,None,4,0,Moderate,High,Home-cooked,1,1917.07,Basic,10,3870,0.66,Low
+78,Other,Single,Freelancer,HSC,33450,Semi-urban,27.2,Never,Occasional,6,5.7,No,Asthma,4,2,Low,Moderate,Home-cooked,0,4786.07,Basic,3,3880,0.52,Medium
