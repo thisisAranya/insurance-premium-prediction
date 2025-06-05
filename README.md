@@ -11,7 +11,7 @@ A machine learning system that predicts insurance premium categories (Low, Mediu
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/insurance-premium-prediction.git
+git clone https://github.com/thisisAranya/insurance-premium-prediction.git
 cd insurance-premium-prediction
 
 # Create virtual environment (recommended)
