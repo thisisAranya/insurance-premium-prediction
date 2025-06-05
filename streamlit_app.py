@@ -248,25 +248,25 @@ with col2:
                 if predicted_category == "Low":
                     st.markdown(f'''
                     <div class="result-box success-box">
-                        <h3>✅ Predicted Category: {predicted_category}</h3>
-                        <p><strong>Confidence:</strong> {confidence:.2%}</p>
-                        <p>Great news! You qualify for lower premium rates.</p>
+                        <h3 style="color: #155724;">✅ Predicted Category: {predicted_category}</h3>
+                        <p style="color: #155724;"><strong>Confidence:</strong> {confidence:.2%}</p>
+                        <p style="color: #155724;">Great news! You qualify for lower premium rates.</p>
                     </div>
                     ''', unsafe_allow_html=True)
                 elif predicted_category == "Medium":
                     st.markdown(f'''
                     <div class="result-box warning-box">
-                        <h3>⚡ Predicted Category: {predicted_category}</h3>
-                        <p><strong>Confidence:</strong> {confidence:.2%}</p>
-                        <p>You qualify for standard premium rates.</p>
+                        <h3 style="color: #856404;">⚡ Predicted Category: {predicted_category}</h3>
+                        <p style="color: #856404;"><strong>Confidence:</strong> {confidence:.2%}</p>
+                        <p style="color: #856404;">You qualify for standard premium rates.</p>
                     </div>
                     ''', unsafe_allow_html=True)
                 else:  # High
                     st.markdown(f'''
                     <div class="result-box error-box">
-                        <h3>⚠️ Predicted Category: {predicted_category}</h3>
-                        <p><strong>Confidence:</strong> {confidence:.2%}</p>
-                        <p>Higher premium rates may apply due to risk factors.</p>
+                        <h3 style="color: #721c24;">⚠️ Predicted Category: {predicted_category}</h3>
+                        <p style="color: #721c24;"><strong>Confidence:</strong> {confidence:.2%}</p>
+                        <p style="color: #721c24;">Higher premium rates may apply due to risk factors.</p>
                     </div>
                     ''', unsafe_allow_html=True)
                 
