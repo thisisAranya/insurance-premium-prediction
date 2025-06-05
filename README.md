@@ -11,14 +11,15 @@ A machine learning system that predicts insurance premium categories (Low, Mediu
 ### Installation
 ```bash
 # Clone repository
-git clone <repository-url>
+git clone https://github.com/YOUR_USERNAME/insurance-premium-prediction.git
 cd insurance-premium-prediction
 
-# Install dependencies
-pip install fastapi uvicorn streamlit requests plotly pandas scikit-learn imbalanced-learn
+# Create virtual environment (recommended)
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-# Ensure you have the trained model file
-# insurance_model.pkl should be in the project root
+# Install dependencies
+pip install -r requirements.txt
 ```
 
 ### Run the Application
@@ -37,13 +38,18 @@ streamlit run streamlit_app.py
 
 ## 📁 Project Structure
 ```
-project/
-├── app.py              # FastAPI backend
-├── streamlit_app.py    # Streamlit frontend
-├── train_model.py      # Model training script
-├── insurance_model.pkl # Trained model
-└── README.md          # This file
+insurance-premium-prediction/
+├── app.py                          # FastAPI backend
+├── streamlit_app.py                # Streamlit frontend
+├── train_model.py                  # Model training script
+├── insurance_model.pkl             # Trained model (create this)
+├── insurance_premium_dataset.csv   # Training dataset
+├── requirements.txt                # Dependencies
+├── .gitignore                      # Git ignore file
+└── README.md                       # This file
 ```
+
+**Note**: You need to create the `insurance_model.pkl` file by running the training script with your dataset.
 
 ## 🎯 Features
 - **Web Interface**: Easy-to-use form with 25 input fields
@@ -99,20 +105,38 @@ curl -X POST "http://localhost:8000/predict" \
 
 ## 📋 Requirements
 ```txt
+# Web Framework & API
 fastapi==0.104.1
 uvicorn[standard]==0.24.0
+pydantic==2.5.0
+
+# Frontend & Visualization
 streamlit==1.28.0
-requests==2.31.0
 plotly==5.17.0
+
+# Data Processing & ML
 pandas==2.1.3
+numpy==1.24.3
 scikit-learn==1.3.2
 imbalanced-learn==0.11.0
+
+# HTTP Requests
+requests==2.31.0
+
+# Serialization
+pickle-mixin==1.0.2
+
+# Additional dependencies
+python-multipart==0.0.6
+python-dotenv==1.0.0
+typing-extensions==4.8.0
 ```
 
 ## 🛠 Troubleshooting
 - **API not connecting**: Ensure FastAPI is running on port 8000
-- **Model not found**: Check `insurance_model.pkl` exists in project root
-- **Dependencies**: Run `pip install -r requirements.txt`
+- **Model not found**: Run `python train_model.py` to create the model file
+- **Dependencies error**: Create virtual environment and run `pip install -r requirements.txt`
+- **Port conflicts**: Change ports in `app.py` (FastAPI) or use `streamlit run streamlit_app.py --server.port 8502`
 
 ## 📞 Support
 Create an issue on GitHub for bugs or questions.
